@@ -1,0 +1,72 @@
+{
+  "num_images": 30914,
+  "sources": {
+    "Synthetic-OpenMoji": 240,
+    "Synth-GCD": 100,
+    "nyuuzyou/stickers": 30000,
+    "StickerQueries": 574
+  },
+  "kinds": {
+    "postcard": 340,
+    "sticker": 30574
+  },
+  "splits": {
+    "train": 21805,
+    "test": 4640,
+    "dev": 4469
+  },
+  "source_query_count": 4171,
+  "source_png_eligible": 578,
+  "source_non_png_excluded": 537,
+  "failed_count": 0,
+  "exact_duplicate_count": 4,
+  "near_edges": 221,
+  "group_count": 30508,
+  "largest_groups": [
+    [
+      "card_birthday_1F381_bold_0",
+      10
+    ],
+    [
+      "card_birthday_1F382_bold_0",
+      10
+    ],
+    [
+      "card_congrats_1F389_bold_0",
+      10
+    ],
+    [
+      "card_congrats_1F3C6_bold_0",
+      10
+    ],
+    [
+      "card_getwell_1F375_bold_0",
+      10
+    ],
+    [
+      "card_getwell_1F48A_bold_0",
+      10
+    ],
+    [
+      "card_hello_1F44B_bold_0",
+      10
+    ],
+    [
+      "card_hello_1F60A_bold_0",
+      10
+    ],
+    [
+      "card_love_1F970_bold_0",
+      10
+    ],
+    [
+      "card_love_2764_bold_0",
+      10
+    ]
+  ],
+  "animated_png_first_frame": 0,
+  "seed": 42,
+  "rights_note": "Dataset-card declarations do not independently establish third-party artwork rights.",
+  "benchmark_note": "Own grouped split, NOT original source benchmark. Near-duplicate grouping is heuristic; pack IDs unavailable.",
+  "grouping_rule_version": 3
+}

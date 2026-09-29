@@ -1,0 +1,106 @@
+[
+  {
+    "index": 9,
+    "item_id": "nyu_d3c0fd3c503dae976e586879",
+    "category": "Улучшение: приветствие",
+    "note": "OCR «ПРИВЕТИК» соответствует изображению. Запрос «приветствие енота» связан с ситуацией использования.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 26,
+    "item_id": "nyu_6d7bfac22e6a889428194734",
+    "category": "Улучшение: поиск вместо совета",
+    "note": "В v1 модель предлагала медицинские вопросы. В v2 — «боль в животе», «женщина с болью», что лучше соответствует подбору картинки.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 36,
+    "item_id": "nyu_d40f74f99a448f71fa2c71e5",
+    "category": "Улучшение: коммуникативный смысл",
+    "note": "Надпись «I’m Through With You!» и запрос «разрыв отношений» связаны. V1 предлагал вопросы о рисовании и значении фразы.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 21,
+    "item_id": "nyu_259343f146b8614bac63e04a",
+    "category": "Ошибка распознавания объекта",
+    "note": "На превью фиолетовая птица; v2 описывает её как лук. Ошибка перешла в два синтетических запроса.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 22,
+    "item_id": "nyu_175986686a387da607619e5e",
+    "category": "Нарушение языка запроса",
+    "note": "В usage_queries_ru попало «的表情困惑». Это не русский поисковый запрос.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 34,
+    "item_id": "nyu_00618bca058b17c2020abd04",
+    "category": "Выдуманная деталь",
+    "note": "На птице не видно солнцезащитных очков; оранжевые элементы — область глаз. V2 сохраняет ошибку описания из v1.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 50,
+    "item_id": "nyu_c35834a2dff67e69e9cd59e2",
+    "category": "Запрос вне сценария",
+    "note": "«Реклама детских товаров» не обоснована изображением плачущего младенца. Остальные два запроса по содержанию уместнее.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 66,
+    "item_id": "nyu_482ade3f6088f2510e0e2271",
+    "category": "Выдуманное название персонажа",
+    "note": "Запрос «чебурашка с животным» не соответствует видимому аниме-персонажу. В описании чиби ошибочно превратилось в имя в запросе.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 76,
+    "item_id": "nyu_7ea64173794eecf8c76713c9",
+    "category": "OCR: смешение алфавитов",
+    "note": "Надпись в основном распознана, но в «ЮМORA» смешаны кириллица и латиница. Exact-match поиск может пострадать.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 80,
+    "item_id": "nyu_ddd7fbc8521dac17f128e2cf",
+    "category": "Выдуманное действие / объект",
+    "note": "Мужчина держит руки у лица. Боулинга на превью нет, но он появился в описании и запросе.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 84,
+    "item_id": "nyu_d40a5b21368d9812bd1e20a9",
+    "category": "OCR и детали требуют проверки",
+    "note": "Цифры «88888888» не просматриваются на превью; видны украшения и талисман. Исходное изображение нужно проверить перед принятием этой OCR-строки.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 95,
+    "item_id": "nyu_b7461c9454056b975c3b7e9e",
+    "category": "Выдуманная деталь",
+    "note": "На голове лягушки не видно шлема. Запрос «шлем жаба» закрепляет ошибку описания.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  },
+  {
+    "index": 97,
+    "item_id": "nyu_e2639b79b388f3030c2ad796",
+    "category": "Ошибка названия животного",
+    "note": "Рисунок похож на мопса, но модель называет собаку пуделем. Жест одобрения распознан, порода — нет.",
+    "reviewer": "assistant_visual_review",
+    "basis": "embedded_thumbnail"
+  }
+]

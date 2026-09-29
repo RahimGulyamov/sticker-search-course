@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "backend_contract_tests": 5,
+    "streamlit_widget_tests": 3,
+    "status": "passed",
+    "streamlit": "1.50.0",
+    "python_3_10_syntax": "passed"
+  },
+  "inference": "mocked; real FLUX and U2Net inference must be checked on the offline GPU pod",
+  "files": {
+    "sticker_search/generate.py": "a35270972effae364312e88e12a4d3762c8e6cdcc41f168c3b8029fc7cdcb420",
+    "sticker_search/remove_background.py": "dc42935d4af5766d1af80e23c8b6977fedc272e8a6c06b970f8b83c3d5b1b64a",
+    "sticker_search/generation_ui.py": "988ce926da9e387eb715f83b0ae6c18090620b993f3dff0d24e419d4cec28124",
+    "app_siglip2.py": "c80c1bd06cd24fa6ec13d3ee7e7d22be62197c32534bf7c816c179a06f485757",
+    "app.py": "892a85840793b7d6336029bac5c9572109703da99085557d77966811d7cb54a2",
+    "tests/test_generation_steps.py": "d471bea35886857ca673bd6458911d903f5d05ae37a0d6f2f13a6db0f1d6bdbb",
+    "tests/test_generation_ui.py": "354bb1ae41d7cbe07632e11f939b66c62764d7452f22dae0be085a99baf9ac2f",
+    "docs/GENERATION_STEPS.md": "410cd5bee921ffcfe6ba85e13543ef030def2a53539f2b081942e13da83bf161",
+    "docs/SIGLIP2.md": "c72114c5de38ede8753ecc63f5396cd93128c5a0fe582dfddf4df2e88d8ad521"
+  }
+}

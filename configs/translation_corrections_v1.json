@@ -1,0 +1,855 @@
+{
+  "schema_version": 1,
+  "patch_id": "translation_failures_20260928_v1",
+  "author": "OpenAI assistant",
+  "expected_total": 4171,
+  "human_reviewed": false,
+  "entries": [
+    {
+      "key": "sq_1017943490086044340_en_3",
+      "source": {
+        "query_id": "sq_1017943490086044340_en_3",
+        "text": "nooooooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1017943490086044340"
+        ],
+        "group_id": "sq_1017943490086044340",
+        "split": "dev"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1017943490086044341_en_0",
+      "source": {
+        "query_id": "sq_1017943490086044341_en_0",
+        "text": "arghhhhh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1017943490086044341"
+        ],
+        "group_id": "sq_1017943490086044341",
+        "split": "dev"
+      },
+      "text_ru": "аргх",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1017943490086044349_en_0",
+      "source": {
+        "query_id": "sq_1017943490086044349_en_0",
+        "text": "nawww",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1017943490086044349"
+        ],
+        "group_id": "sq_1017943490086044349",
+        "split": "train"
+      },
+      "text_ru": "не-е",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Принято чтение как растянутое отрицание; без контекста возможно другое междометие."
+    },
+    {
+      "key": "sq_1102348238926643205_en_1",
+      "source": {
+        "query_id": "sq_1102348238926643205_en_1",
+        "text": "grrrrr",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1102348238926643205"
+        ],
+        "group_id": "sq_1102348238926643205",
+        "split": "train"
+      },
+      "text_ru": "гр-р-р",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1196171713608417575_en_3",
+      "source": {
+        "query_id": "sq_1196171713608417575_en_3",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1196171713608417575"
+        ],
+        "group_id": "sq_1196171713608417575",
+        "split": "test"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1249949699201302698_en_2",
+      "source": {
+        "query_id": "sq_1249949699201302698_en_2",
+        "text": "wuwu",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1249949699201302698"
+        ],
+        "group_id": "sq_1249949699201302698",
+        "split": "train"
+      },
+      "text_ru": "у-у",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная передача звука; эмоция и культурная отсылка не устанавливались."
+    },
+    {
+      "key": "sq_1249949699201302698_en_3",
+      "source": {
+        "query_id": "sq_1249949699201302698_en_3",
+        "text": "wuwuwu",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1249949699201302698"
+        ],
+        "group_id": "sq_1249949699201302698",
+        "split": "train"
+      },
+      "text_ru": "у-у-у",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная передача звука; эмоция и культурная отсылка не устанавливались."
+    },
+    {
+      "key": "sq_1307127503596290093_en_2",
+      "source": {
+        "query_id": "sq_1307127503596290093_en_2",
+        "text": "awwww",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1307127503596290093"
+        ],
+        "group_id": "sq_1307127503596290093",
+        "split": "test"
+      },
+      "text_ru": "оу-у",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Приблизительное междометие; оттенок умиления, сочувствия или разочарования без контекста неоднозначен."
+    },
+    {
+      "key": "sq_182751983726232083_en_2",
+      "source": {
+        "query_id": "sq_182751983726232083_en_2",
+        "text": "ahhhhh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_182751983726232083"
+        ],
+        "group_id": "sq_182751983726232083",
+        "split": "train"
+      },
+      "text_ru": "а-а-а",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1833563040931381722_en_8",
+      "source": {
+        "query_id": "sq_1833563040931381722_en_8",
+        "text": ">_<",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1833563040931381722"
+        ],
+        "group_id": "nyu_ef34292fe0cd549711a25d08",
+        "split": "train"
+      },
+      "text_ru": ">_<",
+      "ambiguous": false,
+      "strategy": "preserve_emoticon",
+      "note": "Смайлик сохранён без языковой интерпретации."
+    },
+    {
+      "key": "sq_1833747660100599880_en_3",
+      "source": {
+        "query_id": "sq_1833747660100599880_en_3",
+        "text": "noooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1833747660100599880"
+        ],
+        "group_id": "sq_1833747660100599880",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_1899549922034712764_en_0",
+      "source": {
+        "query_id": "sq_1899549922034712764_en_0",
+        "text": "huuuuuuuuuuh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_1899549922034712764"
+        ],
+        "group_id": "sq_1899549922034712764",
+        "split": "train"
+      },
+      "text_ru": "э-э-э?",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_2350329275443314871_en_4",
+      "source": {
+        "query_id": "sq_2350329275443314871_en_4",
+        "text": "saaaaaadd",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_2350329275443314871"
+        ],
+        "group_id": "sq_2350329275443314871",
+        "split": "train"
+      },
+      "text_ru": "гру-у-устно",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_263860190548328541_en_4",
+      "source": {
+        "query_id": "sq_263860190548328541_en_4",
+        "text": "urghhhhhhhhh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_263860190548328541"
+        ],
+        "group_id": "sq_263860190548328541",
+        "split": "test"
+      },
+      "text_ru": "уф-ф",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_2916827172498833535_en_5",
+      "source": {
+        "query_id": "sq_2916827172498833535_en_5",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_2916827172498833535"
+        ],
+        "group_id": "sq_2916827172498833535",
+        "split": "train"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_320794921269198941_en_0",
+      "source": {
+        "query_id": "sq_320794921269198941_en_0",
+        "text": "nuuuuuu",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_320794921269198941_en_11",
+      "source": {
+        "query_id": "sq_320794921269198941_en_11",
+        "text": "nooooooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_320794921269198941_en_12",
+      "source": {
+        "query_id": "sq_320794921269198941_en_12",
+        "text": "nawrrrrrrr",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Принято чтение как стилизованное отрицание; без контекста интерпретация неоднозначна."
+    },
+    {
+      "key": "sq_320794921269198941_en_2",
+      "source": {
+        "query_id": "sq_320794921269198941_en_2",
+        "text": "nuuuuuuu",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_320794921269198941_en_3",
+      "source": {
+        "query_id": "sq_320794921269198941_en_3",
+        "text": "noooooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_320794921269198941_en_4",
+      "source": {
+        "query_id": "sq_320794921269198941_en_4",
+        "text": "urghhhh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_320794921269198941"
+        ],
+        "group_id": "sq_320794921269198941",
+        "split": "train"
+      },
+      "text_ru": "уф-ф",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_3302293271769776148_en_5",
+      "source": {
+        "query_id": "sq_3302293271769776148_en_5",
+        "text": "noooooooooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_3302293271769776148"
+        ],
+        "group_id": "sq_3302293271769776148",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_331131228218459321_en_0",
+      "source": {
+        "query_id": "sq_331131228218459321_en_0",
+        "text": "swee",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_331131228218459321"
+        ],
+        "group_id": "sq_331131228218459321",
+        "split": "train"
+      },
+      "text_ru": "сви",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Значение неясно; только приблизительная транслитерация, без восстановления предполагаемого слова."
+    },
+    {
+      "key": "sq_3545395176706933400_en_3",
+      "source": {
+        "query_id": "sq_3545395176706933400_en_3",
+        "text": "wahhahaha",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_3545395176706933400"
+        ],
+        "group_id": "sq_3545395176706933400",
+        "split": "test"
+      },
+      "text_ru": "уа-ха-ха",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_5089225290127770152_en_4",
+      "source": {
+        "query_id": "sq_5089225290127770152_en_4",
+        "text": "boohoo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5089225290127770152"
+        ],
+        "group_id": "sq_5089225290127770152",
+        "split": "test"
+      },
+      "text_ru": "хнык-хнык",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_5091430777309102619_en_7",
+      "source": {
+        "query_id": "sq_5091430777309102619_en_7",
+        "text": ">_<",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5091430777309102619"
+        ],
+        "group_id": "sq_5091430777309102619",
+        "split": "train"
+      },
+      "text_ru": ">_<",
+      "ambiguous": false,
+      "strategy": "preserve_emoticon",
+      "note": "Смайлик сохранён без языковой интерпретации."
+    },
+    {
+      "key": "sq_5116148296917713523_en_5",
+      "source": {
+        "query_id": "sq_5116148296917713523_en_5",
+        "text": "uhhmmm",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5116148296917713523"
+        ],
+        "group_id": "sq_5116148296917713523",
+        "split": "train"
+      },
+      "text_ru": "э-э-м",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_5143615205481120075_en_8",
+      "source": {
+        "query_id": "sq_5143615205481120075_en_8",
+        "text": "nooooo",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5143615205481120075"
+        ],
+        "group_id": "sq_5143615205481120075",
+        "split": "train"
+      },
+      "text_ru": "нееет",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_526235993154519697_en_2",
+      "source": {
+        "query_id": "sq_526235993154519697_en_2",
+        "text": "yeaa",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_526235993154519697"
+        ],
+        "group_id": "sq_526235993154519697",
+        "split": "train"
+      },
+      "text_ru": "да-а",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_541175087705890645_en_2",
+      "source": {
+        "query_id": "sq_541175087705890645_en_2",
+        "text": ">_<",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_541175087705890645"
+        ],
+        "group_id": "sq_541175087705890645",
+        "split": "train"
+      },
+      "text_ru": ">_<",
+      "ambiguous": false,
+      "strategy": "preserve_emoticon",
+      "note": "Смайлик сохранён без языковой интерпретации."
+    },
+    {
+      "key": "sq_5812316810032188260_en_3",
+      "source": {
+        "query_id": "sq_5812316810032188260_en_3",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5812316810032188260"
+        ],
+        "group_id": "sq_5812316810032188260",
+        "split": "train"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_5859484179531567872_en_0",
+      "source": {
+        "query_id": "sq_5859484179531567872_en_0",
+        "text": "noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5859484179531567872"
+        ],
+        "group_id": "sq_5859484179531567872",
+        "split": "train"
+      },
+      "text_ru": "нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_5861438415421051762_en_0",
+      "source": {
+        "query_id": "sq_5861438415421051762_en_0",
+        "text": "noot noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5861438415421051762"
+        ],
+        "group_id": "sq_5861438415421051762",
+        "split": "train"
+      },
+      "text_ru": "нут-нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_5866056304128168292_en_1",
+      "source": {
+        "query_id": "sq_5866056304128168292_en_1",
+        "text": "noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5866056304128168292"
+        ],
+        "group_id": "sq_5866056304128168292",
+        "split": "train"
+      },
+      "text_ru": "нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_5866480741386293865_en_1",
+      "source": {
+        "query_id": "sq_5866480741386293865_en_1",
+        "text": "noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5866480741386293865"
+        ],
+        "group_id": "sq_5866480741386293865",
+        "split": "train"
+      },
+      "text_ru": "нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_5870571397088022977_en_0",
+      "source": {
+        "query_id": "sq_5870571397088022977_en_0",
+        "text": "noot noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5870571397088022977"
+        ],
+        "group_id": "sq_5870571397088022977",
+        "split": "train"
+      },
+      "text_ru": "нут-нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_5877707339221438501_en_2",
+      "source": {
+        "query_id": "sq_5877707339221438501_en_2",
+        "text": "noot ???",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5877707339221438501"
+        ],
+        "group_id": "sq_5877707339221438501",
+        "split": "dev"
+      },
+      "text_ru": "нут ???",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация с сохранением вопросительных знаков; отсылка не устанавливалась."
+    },
+    {
+      "key": "sq_5893267679317332411_en_1",
+      "source": {
+        "query_id": "sq_5893267679317332411_en_1",
+        "text": "noot",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_5893267679317332411"
+        ],
+        "group_id": "sq_5893267679317332411",
+        "split": "test"
+      },
+      "text_ru": "нут",
+      "ambiguous": true,
+      "strategy": "approximate_transliteration",
+      "note": "Приблизительная транслитерация; значение и отсылка по одному слову не устанавливались."
+    },
+    {
+      "key": "sq_6057708765761765997_en_5",
+      "source": {
+        "query_id": "sq_6057708765761765997_en_5",
+        "text": "nawww",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6057708765761765997"
+        ],
+        "group_id": "sq_6057708765761765997",
+        "split": "train"
+      },
+      "text_ru": "не-е",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Принято чтение как растянутое отрицание; без контекста возможно другое междометие."
+    },
+    {
+      "key": "sq_6060111593805451463_en_2",
+      "source": {
+        "query_id": "sq_6060111593805451463_en_2",
+        "text": "awesomeee",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6060111593805451463"
+        ],
+        "group_id": "sq_6060111593805451463",
+        "split": "dev"
+      },
+      "text_ru": "кру-у-то",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_6111478075520716393_en_1",
+      "source": {
+        "query_id": "sq_6111478075520716393_en_1",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6111478075520716393"
+        ],
+        "group_id": "sq_6111478075520716393",
+        "split": "dev"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_6136529017735480014_en_6",
+      "source": {
+        "query_id": "sq_6136529017735480014_en_6",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6136529017735480014"
+        ],
+        "group_id": "sq_6136529017735480014",
+        "split": "test"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_6154406750385603257_en_3",
+      "source": {
+        "query_id": "sq_6154406750385603257_en_3",
+        "text": "yawn",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6154406750385603257"
+        ],
+        "group_id": "sq_6154406750385603257",
+        "split": "train"
+      },
+      "text_ru": "зевок",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_6183817771600579939_en_3",
+      "source": {
+        "query_id": "sq_6183817771600579939_en_3",
+        "text": "blueeeehhh",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6183817771600579939"
+        ],
+        "group_id": "sq_6183817771600579939",
+        "split": "train"
+      },
+      "text_ru": "бэээ",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Приблизительное междометие; конкретная эмоция не уточнялась."
+    },
+    {
+      "key": "sq_6287531941784715775_en_4",
+      "source": {
+        "query_id": "sq_6287531941784715775_en_4",
+        "text": "wowwww",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_6287531941784715775"
+        ],
+        "group_id": "sq_6287531941784715775",
+        "split": "train"
+      },
+      "text_ru": "вау-у",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    },
+    {
+      "key": "sq_939064079232794736_en_2",
+      "source": {
+        "query_id": "sq_939064079232794736_en_2",
+        "text": "awww",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_939064079232794736"
+        ],
+        "group_id": "nyu_8ebf27d8a1c8bd7388316408",
+        "split": "dev"
+      },
+      "text_ru": "оу-у",
+      "ambiguous": true,
+      "strategy": "translation",
+      "note": "Приблизительное междометие; оттенок умиления, сочувствия или разочарования без контекста неоднозначен."
+    },
+    {
+      "key": "sq_939064079232794827_en_4",
+      "source": {
+        "query_id": "sq_939064079232794827_en_4",
+        "text": "wow",
+        "language": "en",
+        "label_source": "human_source",
+        "positive_item_ids": [
+          "sq_939064079232794827"
+        ],
+        "group_id": "nyu_52e773a54e780fc0edb1d7f0",
+        "split": "dev"
+      },
+      "text_ru": "вау",
+      "ambiguous": false,
+      "strategy": "translation",
+      "note": "Короткий перевод исходного текста; растяжение звуков ограничено."
+    }
+  ]
+}

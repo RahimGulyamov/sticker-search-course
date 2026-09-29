@@ -1,0 +1,5 @@
+# Laptop download/upload only. No torch, CUDA, diffusers or rembg runtime.
+Pillow==11.3.0
+huggingface-hub==0.35.3
+ytsaurus-client==0.13.37
+pooch==1.8.2

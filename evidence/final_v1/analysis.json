@@ -1,0 +1,101 @@
+{
+  "bootstrap": {
+    "seed": 42,
+    "replicates": 10000,
+    "unit": "image group",
+    "paired": true
+  },
+  "comparisons": {
+    "en_rrf_minus_image": {
+      "mean": -0.0007640635847175359,
+      "ci95": [
+        -0.006974284738169676,
+        0.005513157459041717
+      ]
+    },
+    "en_learned_minus_image": {
+      "mean": 0.004373468838186981,
+      "ci95": [
+        -0.011781771878756711,
+        0.021929836839132286
+      ]
+    },
+    "ru_rrf_minus_image": {
+      "mean": 0.0005662825447538476,
+      "ci95": [
+        -0.006502892875278142,
+        0.007157073756872441
+      ]
+    },
+    "ru_learned_minus_image": {
+      "mean": -0.006334505786446606,
+      "ci95": [
+        -0.022841662122350004,
+        0.005478238705553888
+      ]
+    }
+  },
+  "warm_latency": {
+    "image": {
+      "encoder_ms": {
+        "p50": 9.3220139387995,
+        "p95": 11.022009712178255
+      },
+      "search_ms": {
+        "p50": 38.96621603053063,
+        "p95": 40.35181744256988
+      },
+      "warm_end_to_end_ms": {
+        "p50": 47.89627704303712,
+        "p95": 50.687865540385246
+      }
+    },
+    "rrf": {
+      "encoder_ms": {
+        "p50": 9.3220139387995,
+        "p95": 11.022009712178255
+      },
+      "search_ms": {
+        "p50": 46.68217746075243,
+        "p95": 48.66501287324353
+      },
+      "warm_end_to_end_ms": {
+        "p50": 55.75498042162508,
+        "p95": 58.624284190591425
+      }
+    },
+    "learned": {
+      "encoder_ms": {
+        "p50": 9.3220139387995,
+        "p95": 11.022009712178255
+      },
+      "search_ms": {
+        "p50": 38.51428802590817,
+        "p95": 40.64773458521813
+      },
+      "warm_end_to_end_ms": {
+        "p50": 47.90564812719822,
+        "p95": 50.607005902566016
+      }
+    }
+  },
+  "generation_seconds": [
+    14.804091583006084,
+    14.152360453037545,
+    14.095863967202604,
+    14.016782609047368,
+    14.253124815179035
+  ],
+  "visual_review": {
+    "reviewer": "AI assistant, not an independent human assessor",
+    "search_probes": 18,
+    "generation_pairs": 5,
+    "findings": [
+      "laughter confused with crying",
+      "birthday confused with congratulations",
+      "learned top-1 good-morning matches but top-3 includes good-night",
+      "robot cutout loses opaque body and thin details",
+      "space setting absent in generated robot example"
+    ]
+  }
+}

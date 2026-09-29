@@ -1,0 +1,55 @@
+{
+  "catalog_images": 30914,
+  "splits": {
+    "train": 21805,
+    "test": 4640,
+    "dev": 4469
+  },
+  "train_unique_images": 21776,
+  "train_coverage": 0.9986700298096767,
+  "missing_train_item_ids": [
+    "nyu_11ea14d02a817752bd842aee",
+    "nyu_12103f4021c6522b4b3cb724",
+    "nyu_2393981cd74af3bb8c7b83d5",
+    "nyu_2cda298b08c38ed9c99447c8",
+    "nyu_370c3ab585c8a31eb0251630",
+    "nyu_3bbe14b85831d499fe47ce12",
+    "nyu_3c5f000794b3f680f882d678",
+    "nyu_4425b88a22a385a5d044cb20",
+    "nyu_5bbf745a996e9821148d1f19",
+    "nyu_5e8d9e5ec955dffa97d4af97",
+    "nyu_6127bd6a7fb475be7f7e818d",
+    "nyu_69c397e9fa19633508dbae64",
+    "nyu_73f6f190360f504bfdfd9560",
+    "nyu_79c6f0c16ab0210a32814c2d",
+    "nyu_7d72d4c18defecbe52f394be",
+    "nyu_899948d9dd9a9c211cf3467e",
+    "nyu_8b7af609041a062f022f8ccc",
+    "nyu_90b072c362f614d5534f8220",
+    "nyu_bb7a9366edd3b1d525ea0b3a",
+    "nyu_c343a2c2647c8615d686f623",
+    "nyu_cb23fa3bc04c6a016dabdbfb",
+    "nyu_d81f9305c30f118cf894b5c0",
+    "nyu_da12aa0dfdea50f004ed92e5",
+    "nyu_e0e89352e91f002816899d1e",
+    "nyu_ec1fff4f587f735ff5721c50",
+    "nyu_ed204579ee242ec1594781ed",
+    "nyu_eef5aa99f16901225a554d54",
+    "nyu_efc7ce47de497a4767d90e24",
+    "nyu_f8b3fe1d07a658c265313e47"
+  ],
+  "train_pairs": 49318,
+  "pairs_by_origin": {
+    "vlm_caption": 43552,
+    "human_source": 2883,
+    "human_source_machine_translation": 2883
+  },
+  "pairs_by_language": {
+    "en": 24659,
+    "ru": 24659
+  },
+  "rejected_caption_fields": 58,
+  "all_images_decoded": true,
+  "note": "Automatic syntax checks do not establish semantic correctness of VLM captions or translations.",
+  "dev_test_used_for_training": false
+}

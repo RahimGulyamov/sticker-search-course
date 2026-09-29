@@ -1,0 +1,44 @@
+{
+  "source": "User-provided retrieval_diagnostics.zip received 2026-09-28 14:05 Europe/Moscow",
+  "caption_hub_ru_top1": {
+    "item_id": "nyu_75e688663401c7ca6af3c885",
+    "count": 389,
+    "queries": 608
+  },
+  "rrf_80_20_mean_ndcg5": {
+    "mean": 0.013714276567193831,
+    "ci95": [
+      0.005881786552348926,
+      0.022319470407152302
+    ]
+  },
+  "rrf_80_20_delta_vs_image": {
+    "NDCG@5_delta": {
+      "mean": 0.0023170471754177095,
+      "ci95": [
+        -0.0011272953519730624,
+        0.007175210506363452
+      ]
+    }
+  },
+  "observed_translation_errors": [
+    {
+      "en": "im a happy hippo",
+      "ru": "я счастливый хиппи"
+    },
+    {
+      "en": "arrest me",
+      "ru": "Заткнись!"
+    },
+    {
+      "en": "tongue out",
+      "ru": "язык вони"
+    }
+  ],
+  "conclusion": "Raw fusion has severe score-distribution and hubness problems. RRF improves the point estimate but its paired delta CI includes zero. Good EN/RU embedding agreement does not establish semantic translation correctness.",
+  "next_experiments": [
+    "TRAIN-only background score correction + RRF",
+    "Native CLIP text encoder on source EN queries"
+  ],
+  "next_experiments_executed_on_pod": false
+}

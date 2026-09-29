@@ -1,0 +1,58 @@
+{
+  "smoke": true,
+  "steps": 2,
+  "ranks": [
+    {
+      "rank": 0,
+      "grad_norms": {
+        "vision_model.embeddings.patch_embedding.weight": 0.3737311065196991,
+        "text_model.head.weight": 0.2758199870586395
+      },
+      "parameter_max_changes": {
+        "vision_model.embeddings.patch_embedding.weight": 2.60770320892334e-07,
+        "text_model.head.weight": 2.5890767574310303e-07
+      },
+      "peak_cuda_allocated_gb": 23.465355776,
+      "peak_cuda_reserved_gb": 29.4125568
+    },
+    {
+      "rank": 1,
+      "grad_norms": {
+        "vision_model.embeddings.patch_embedding.weight": 0.3737311065196991,
+        "text_model.head.weight": 0.2758199870586395
+      },
+      "parameter_max_changes": {
+        "vision_model.embeddings.patch_embedding.weight": 2.60770320892334e-07,
+        "text_model.head.weight": 2.5890767574310303e-07
+      },
+      "peak_cuda_allocated_gb": 23.465355776,
+      "peak_cuda_reserved_gb": 29.4125568
+    },
+    {
+      "rank": 2,
+      "grad_norms": {
+        "vision_model.embeddings.patch_embedding.weight": 0.3737311065196991,
+        "text_model.head.weight": 0.2758199870586395
+      },
+      "parameter_max_changes": {
+        "vision_model.embeddings.patch_embedding.weight": 2.60770320892334e-07,
+        "text_model.head.weight": 2.5890767574310303e-07
+      },
+      "peak_cuda_allocated_gb": 23.465355776,
+      "peak_cuda_reserved_gb": 29.4125568
+    },
+    {
+      "rank": 3,
+      "grad_norms": {
+        "vision_model.embeddings.patch_embedding.weight": 0.3737311065196991,
+        "text_model.head.weight": 0.2758199870586395
+      },
+      "parameter_max_changes": {
+        "vision_model.embeddings.patch_embedding.weight": 2.60770320892334e-07,
+        "text_model.head.weight": 2.5890767574310303e-07
+      },
+      "peak_cuda_allocated_gb": 23.465355776,
+      "peak_cuda_reserved_gb": 29.4125568
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# CUDA profile matching the user's original pod. Install from the CUDA index.
+torch==2.9.1+cu128
+torchvision==0.24.1+cu128
+torchaudio==2.9.1+cu128

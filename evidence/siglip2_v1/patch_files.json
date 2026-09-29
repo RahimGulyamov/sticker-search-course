@@ -1,0 +1,23 @@
+{
+  "README.md": "fed7a9fd1c03a44c33d5c2326d1e7c31c181ae6d2f9a293f7f176005b02f7b16",
+  "app_siglip2.py": "575a93030d55ba8a6fec950c4f40f8ebbc618d601d5e3d9fc78a564b2322cb1e",
+  "configs/model_revisions.json": "edea1e239b7f242966cdd568c5cb11da37da9f1f9b722765075e93d1ee54896a",
+  "configs/siglip2_full.json": "1168b283ab6b454aab1b6e5f664f170af6f4bf8480dff3c8c03ea4dd2e007263",
+  "docs/POD_RUNBOOK.md": "082307c950dd971a28caf4b507200ff87b551da2b2cf560fe023a4def7ff5718",
+  "docs/SIGLIP2.md": "fcd9cba04373a5e6c3c09cebf2b16d9ea2bab6b9120f5df0b4754acaf7aa0e69",
+  "evidence/STATUS.md": "98eea2bf4a9365091212f4d70661b9879f124a15b122456fcb3eed45a14cf619",
+  "evidence/siglip2_v1/software_verification.json": "86d15635646e283b1d93ee9da9e20d465f99f37b8474649a8ba2126dec415cfd",
+  "scripts/collect_siglip2_results.py": "82c9e785faf851a2b402ef4f0beff87d4391927f6cc464725d79abb75dbfc271",
+  "scripts/run_siglip2.sh": "86b560a82d953bd35409e01914952bf8000b86d114bbb7920865032fd134db9c",
+  "scripts/siglip2_assets.sh": "f56ddfc309f774df555866723ef010b075de3291c11eca063623c8cc78f230d7",
+  "sticker_search/offline_models.py": "b2314557092aaf892d4dac5b45e641c388a4b572f82d881d7ef3f1b26959fd64",
+  "sticker_search/siglip/__init__.py": "ad7423190423af9f868f062c694daa4eaebcbd086b7e8bfad8609ba8dd87307f",
+  "sticker_search/siglip/data.py": "4d6c79fa0b0483fe3c6e40895e2dec63499e7735c1770fc761a9236e6adc7453",
+  "sticker_search/siglip/evaluate.py": "5c7344e9fa0cd34645ca889e4915d46f3db9328ef568007fcb35ac83db14c2f0",
+  "sticker_search/siglip/io.py": "4ce901a59e6f85879709a2c0faf1164ed0ef7cd20097925cff690903c733c3d3",
+  "sticker_search/siglip/model.py": "35dea00d62c7291ca4ff9bb8c88e5451893a99799133ec2b66afec7cbd300903",
+  "sticker_search/siglip/search.py": "9fc82e949980acbf7e9b69208ebcbc4f91b2ad4c55e6dd7eaace3d2ac0c5d1c1",
+  "sticker_search/siglip/train.py": "55c1f0fd33475c90b23114f239c01481f0c2649f8404813c625c6830f2af8914",
+  "tests/siglip2_integration.py": "8d562a06c5fb8ca6f4a0152abc41b496074e40bd750930e8c93aa92183063c0b",
+  "tests/test_siglip2.py": "17063e774d284fcc53a2ac2267fd1fc6dbc6fb07a1122d78c7e6456e6f85a1c2"
+}

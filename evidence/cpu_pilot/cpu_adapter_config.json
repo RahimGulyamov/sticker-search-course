@@ -1,0 +1,25 @@
+{
+  "architecture": {
+    "dim": 512,
+    "rank": 64
+  },
+  "index_sha256": "bdf90ffb0855121053a5a29f98ba5aeaea9221941f1084a68ace33f735524c00",
+  "queries_sha256": "abcd4ac41992f1de684bd987767572291467c3256d1edc8823323e583631055c",
+  "arguments": {
+    "index": "runs/cpu_index",
+    "queries": "runs/cpu_queries",
+    "output": "runs/cpu_adapter",
+    "epochs": 5,
+    "batch_size": 64,
+    "rank": 64,
+    "lr": 0.001,
+    "temperature": 0.07,
+    "seed": 42,
+    "device": "cpu",
+    "threads": 4
+  },
+  "training_queries": 1176,
+  "dev_queries": 250,
+  "backbone_frozen": true,
+  "objective": "multi-positive InfoNCE; within-batch negatives; sibling-group masking"
+}

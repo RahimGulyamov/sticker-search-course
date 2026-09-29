@@ -1,0 +1,3005 @@
+[
+  [
+    {
+      "item_id": "nyu_0201dc6e713e5f6abaf4a9c5",
+      "image_sha256": "c8601bf72caffdf7be2553a4fc26711df19cf49477dfc4ee814061f31fb4241e",
+      "caption_en": "A cute cartoon character with glasses and a bow, smiling.",
+      "caption_ru": "Милая мультяшная фигурка с очками и бантиком, улыбающаяся.",
+      "emotion_ru": "счастливое",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать мультяшного персонажа?",
+        "Картинки с милыми мультяшными персонажами",
+        "Как сделать мультяшную открытку?"
+      ]
+    },
+    {
+      "item_id": "nyu_d39436e1a4961a7c12c6b948",
+      "image_sha256": "c4a32c6c6ab957a4fa4df34965ed26807ba6cb65ca776d94d2b545b510feab7d",
+      "caption_en": "A cute cartoon character with blue hair and a yellow cat-like creature.",
+      "caption_ru": "Карикатура с голубыми волосами и желтым котом.",
+      "emotion_ru": "счастливое",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать этого персонажа?",
+        "Что это за животное у персонажа?",
+        "Где можно найти этот персонаж?"
+      ]
+    },
+    {
+      "item_id": "nyu_cae79e3007ae6d1720b7b31c",
+      "image_sha256": "85defe6196f939a57950fd96f923bbfe05d6b632f920661d3fe1aee0355b992a",
+      "caption_en": "A person making a heart shape with their hands and fingers.",
+      "caption_ru": "Человек делает сердце руками и пальцами.",
+      "emotion_ru": "любовь",
+      "style_ru": "фотография",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Сделать сердце руками",
+        "Фото с сердцем из рук",
+        "Идеи для создания сердца из рук"
+      ]
+    },
+    {
+      "item_id": "nyu_800d3294d52e369a0b8f3e5f",
+      "image_sha256": "a43953385234c42c33c7385e52974a92b757e00258915869b7f67c1e2361dcc5",
+      "caption_en": "A young child with dark hair and a white coat over a purple shirt.",
+      "caption_ru": "Маленький ребенок с черными волосами и белым пальто над фиолетовой рубашкой.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Как выглядит этот ребенок?",
+        "Что за ребенок на фото?",
+        "Кто этот ребенок?"
+      ]
+    },
+    {
+      "item_id": "nyu_68db91d21da85cde3e68c339",
+      "image_sha256": "69bc3b881c265908fec30a239677b9b57e6037cc431d3fe2ad05bfce22e90974",
+      "caption_en": "A cartoon newspaper character with one eye and a sad expression, raising a finger.",
+      "caption_ru": "Комикс-изображение газеты с одним глазом и печальным выражением лица, поднимая палец.",
+      "emotion_ru": "печально",
+      "style_ru": "комикс",
+      "ocr_text": "FORGOT ABOUT ME?",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "как нарисовать газету в стиле комиксов",
+        "как нарисовать печального персонажа",
+        "как нарисовать газету с одним глазом"
+      ]
+    },
+    {
+      "item_id": "nyu_f3adb5fff1d006899d511c2b",
+      "image_sha256": "433b6aa7af2224f81f9b5e7ad7745df3f8e5e03098f486845dbb6de0e261280a",
+      "caption_en": "A cartoon character is working at a computer while another character looks on with a tired expression.",
+      "caption_ru": "Карикатура: персонаж работает за компьютером, другой персонаж смотрит на него усталым взглядом.",
+      "emotion_ru": "усталость",
+      "style_ru": "карикатура",
+      "ocr_text": "宝宝想下班\n但宝宝不行",
+      "ocr_language": "zh",
+      "usage_queries_ru": [
+        "как избежать переутомления на работе",
+        "что делать, если хочется уйти с работы",
+        "как справиться с усталостью от работы"
+      ]
+    },
+    {
+      "item_id": "nyu_a774a269f8975eb5e160ee5b",
+      "image_sha256": "3ac07f53917998c06a709f369285e16bc094c2e324a6ff38a35eaa5c61a6f768",
+      "caption_en": "A close-up of a character with dark hair and a serious expression.",
+      "caption_ru": "Близкий план персонажа с черными волосами и серьезным выражением лица.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Какой аниме-персонаж на этом изображении?",
+        "Что происходит в этой сцене?",
+        "Кто этот персонаж?"
+      ]
+    },
+    {
+      "item_id": "nyu_a2b6f4f2de9efca20db36378",
+      "image_sha256": "af4159b4eb5db80aa5734a9b0c456f671a4853254e903c99915d3d5eef86fc2b",
+      "caption_en": "A cartoon tiger sitting on a boat with a lifebuoy, floating on water.",
+      "caption_ru": "Карикатурный тигр сидит на лодке с lifebuoy, плавающей на воде.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с тигром на лодке",
+        "Животные на воде",
+        "Комикс о мореплавании"
+      ]
+    },
+    {
+      "item_id": "nyu_125969ef4eb925a9b59cf74f",
+      "image_sha256": "3ddb3dd1193664806a57ec6c3df143ecc1be5e2c4d94f335cd81cd3845dfca29",
+      "caption_en": "A character with spiky hair holding a fan, with green Japanese text on the left.",
+      "caption_ru": "Персонаж с шипастыми волосами, держащий вентилятор, с зеленым японским текстом слева.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "確認中",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с вентилятором и текстом",
+        "Японский текст на аниме персонаже",
+        "Изображение персонажа с текстом '确认中'"
+      ]
+    },
+    {
+      "item_id": "nyu_d3c0fd3c503dae976e586879",
+      "image_sha256": "0bc2c7bc4e0670f1eedecf3c4afcbcecd00c8d79fbbc438e7c5f1ad4b1add6f5",
+      "caption_en": "A cartoon raccoon wearing a colorful cap and waving.",
+      "caption_ru": "Карикатура енота в цветной кепке и машущего рукой.",
+      "emotion_ru": "радостное",
+      "style_ru": "детский",
+      "ocr_text": "ПРИВЕТИК",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Картинка с енотом в кепке",
+        "Приветствие на русском языке",
+        "Милые животные"
+      ]
+    },
+    {
+      "item_id": "nyu_b3a0e79f6d52a1af921f8f9d",
+      "image_sha256": "bf39981464154e4a29bf07abafa0a64b34f7e74cb5bb9c1717dc93fbafb4def7",
+      "caption_en": "A cute cat with closed eyes and musical notes above its head.",
+      "caption_ru": "Милая кошка с закрытыми глазами и нотами над головой.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с милой кошкой и нотами",
+        "Аниме-кошка с закрытыми глазами",
+        "Игровая стикер-кошка"
+      ]
+    },
+    {
+      "item_id": "nyu_4f6da2b7aa8102d8a3a7f4c2",
+      "image_sha256": "2af479634f5a12677fa3e4d2b4d573ec54035cb62ce53c60b0c9c0a4e6929b51",
+      "caption_en": "A chibi-style character with bat ears, blue eyes, and a heart necklace, holding an orange cat.",
+      "caption_ru": "Чиби-персонаж с ушами летучей мыши, голубыми глазами и ожерельем в форме сердца, держащий рыжего котенка.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме/чиби",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Карикатура с персонажем и кошкой",
+        "Иллюстрация с ушами летучей мыши",
+        "Картинка с чиби-персонажем"
+      ]
+    },
+    {
+      "item_id": "nyu_688d680b4d2fea00574878e4",
+      "image_sha256": "7820eb7409015301bf8c2c2bc854b569463240dffb876b0146b87413ea743c4f",
+      "caption_en": "A child drinking from a sippy cup.",
+      "caption_ru": "Дети пьют из сippy-кружки.",
+      "emotion_ru": "неясно",
+      "style_ru": "реалистичный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Как научить ребенка пить из сippy-кружки?",
+        "Рекомендации по выбору сippy-кружки для детей.",
+        "Как ухаживать за сippy-кружками?"
+      ]
+    },
+    {
+      "item_id": "nyu_07dadb4c82fe8b30ced37bc6",
+      "image_sha256": "96a9b320aa1b7145126676d4bb5cc5e76ce50d12ed678fde8ccd9c5bce308c0b",
+      "caption_en": "A cartoon chick with a stitched eye and bloodstains.",
+      "caption_ru": "Картинка курочка сшитым глазом и кровью.",
+      "emotion_ru": "страшно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как сделать страшную курочку в стиле анимации?",
+        "Как нарисовать курочку с швами на глазу?",
+        "Как сделать страшную курочку для хэллоуина?"
+      ]
+    },
+    {
+      "item_id": "nyu_5944500ea464b062ce659e92",
+      "image_sha256": "4ff0d668a883042e9588211f9548eba30a0af5d06c17182efd9b75e5c07acab6",
+      "caption_en": "A white animated rabbit with wide eyes and an open mouth, holding a carrot.",
+      "caption_ru": "Белый анимированный кролик с большими глазами и открытым ртом, держащий морковь.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "OUV MAY GÖT",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Анимированный кролик с морковью",
+        "Изображение с надписью 'OUV MAY GÖT'",
+        "Картинка с белым кроликом"
+      ]
+    },
+    {
+      "item_id": "nyu_fa419a71e5486de4a0d64618",
+      "image_sha256": "d5c7b7e202577fce4304ff797ee067ef1966fc6d3ce5d4bee55b3630eb639f2c",
+      "caption_en": "A close-up of a person wearing a brown jacket and white shirt, looking off to the side.",
+      "caption_ru": "Близкий план человека в коричневой куртке и белой футболке, смотрящего в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "как выглядит человек на фото",
+        "кто на фотографии",
+        "что делает человек на фото"
+      ]
+    },
+    {
+      "item_id": "nyu_4b6d151d16a9e7250ff456d2",
+      "image_sha256": "5a7e15bd75ce5951be7b3185407ee8dc40bc66cb8128d32b12d07b7407f68ee3",
+      "caption_en": "A cartoon zombie face with wide eyes and a surprised expression.",
+      "caption_ru": "Карикатурное лицо зомби с широко открытыми глазами и удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Зомби-лицо в шоке",
+        "Комикс о зомби",
+        "Иллюстрация с удивленным зомби"
+      ]
+    },
+    {
+      "item_id": "nyu_33ea6b549ac4f3daf03e047e",
+      "image_sha256": "c663f08cb87644e8eabd45518800b58919652102561bc954445e74a039636813",
+      "caption_en": "The image shows the word 'babi' written in black cursive script next to a red heart.",
+      "caption_ru": "На изображении слово \"баби\" написано черным каллиграфическим шрифтом рядом с красным сердцем.",
+      "emotion_ru": "любовь",
+      "style_ru": "калиграфический",
+      "ocr_text": "babi",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Создать открытку с надписью 'баби'",
+        "Найти перевод слова 'баби'",
+        "Использовать слово 'баби' в контексте любви"
+      ]
+    },
+    {
+      "item_id": "nyu_d3bc468376fb1e1823e98e4d",
+      "image_sha256": "aab45e0095ccf788e217441271833a53294ebfb0e42c573f6edbe9d03f1adde0",
+      "caption_en": "A chibi-style character in a green sweater and plaid skirt, striking a dynamic pose.",
+      "caption_ru": "Карикатурный персонаж в зеленой водолазке и клетчатой юбке, стоящий в динамичной позе.",
+      "emotion_ru": "неясно",
+      "style_ru": "чаби",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с чаби-персонажем в зеленом свитере",
+        "Динамичная поза в стиле чаби",
+        "Карикатура в зеленой водолазке"
+      ]
+    },
+    {
+      "item_id": "nyu_a32cf70421bf0aeed1fdad27",
+      "image_sha256": "ef1c11f7e7d9fedb1fa6ab0d4be5e9318b02edfb6e25a039daba7d11b7044f85",
+      "caption_en": "A blonde anime character wearing a school uniform, resting their head on one hand.",
+      "caption_ru": "Аниме-персонаж с блондинкой, одетый в школьную форму, опирающийся на одну руку.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж в школьной форме",
+        "Иллюстрация блондинки в стиле аниме",
+        "Рисунок персонажа с рука на подбородке"
+      ]
+    },
+    {
+      "item_id": "nyu_9c1e8bbd0809d33b19d53430",
+      "image_sha256": "fd3369fbe28d64c2078b06fec174ff0e1ac7ae4a3441f3e651902aa8748a973f",
+      "caption_en": "A simple, minimalist face with closed eyes and a small pink mouth.",
+      "caption_ru": "Простой, минималистичный рисунок лица с закрытыми глазами и маленьким розовым ртом.",
+      "emotion_ru": "нейтрально",
+      "style_ru": "минимализм",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Как нарисовать простое лицо?",
+        "Минималистичные рисунки для детей",
+        "Как сделать открытку с минималистичным дизайном?"
+      ]
+    },
+    {
+      "item_id": "nyu_259343f146b8614bac63e04a",
+      "image_sha256": "2b0bb24602be40f7702ec8d59a5436060c60044b30b2981035a77147d9c0c514",
+      "caption_en": "A purple cartoon character with a distressed expression is in a corner.",
+      "caption_ru": "Карикатурный персонаж фиолетового цвета с выражением страдания стоит в углу.",
+      "emotion_ru": "страстно",
+      "style_ru": "комикс",
+      "ocr_text": "ПОМОГИ МНЕ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Как помочь персонажу на картинке?",
+        "Что делать, если персонаж в уголке?",
+        "Какие эмоции у персонажа?"
+      ]
+    },
+    {
+      "item_id": "nyu_175986686a387da607619e5e",
+      "image_sha256": "c85d178ed17cc457eb30b0de8f2c37871bbb165e98b8eeeac5818f7a30ea24f1",
+      "caption_en": "A green cartoon frog with a confused expression.",
+      "caption_ru": "Зеленая карикатурная лягушка с удивленным выражением лица.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать лягушку в стиле Pepe the Frog?",
+        "Что означает выражение лица у лягушки на картинке?",
+        "Какие эмоции могут передать зеленые лягушки?"
+      ]
+    },
+    {
+      "item_id": "nyu_f17d557935103157ed316ab0",
+      "image_sha256": "c6fe762c98fd03a71660111c570b7e4719bfc9dd49fd5d7f6f18578af7b9933f",
+      "caption_en": "A person wearing sunglasses and a blue shirt, adjusting their glasses with a hand.",
+      "caption_ru": "Человек в синей рубашке и солнцезащитных очках, держащий руку возле очков.",
+      "emotion_ru": "неясно",
+      "style_ru": "стилизованный",
+      "ocr_text": "HAY!!!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Как сделать так, чтобы человек носил солнцезащитные очки?",
+        "Какие стили одежды сочетаются с синей рубашкой?",
+        "Какие аксессуары можно использовать для улучшения образа?"
+      ]
+    },
+    {
+      "item_id": "nyu_a00edbe183bbf270e6942a87",
+      "image_sha256": "4e42f4bcc0464780a9a68c765b67933e48955dcfa3372f0e5ef7fdc6dd5b3851",
+      "caption_en": "A cartoon character holding money and wearing a uniform with stars on the shoulders.",
+      "caption_ru": "Карикатура человека в форме с звездами на плечах, держащего деньги.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "Bitcoin\nLCOINS",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Картинка с персонажем и деньгами",
+        "Карикатура с монетами и звездами",
+        "Иллюстрация с персонажем в форме"
+      ]
+    },
+    {
+      "item_id": "nyu_961839b2fdfc343fbc74d34b",
+      "image_sha256": "0d5d23a90632382254d6e9563af3e4deaac6815d85acd8c556701c5f93abd5d3",
+      "caption_en": "A cartoon woman with braided hair, wearing a purple top, resting her chin on her hand.",
+      "caption_ru": "Картинка женщины в стиле комиксов с косичками, в фиолетовом топе, положив руку под подбородок.",
+      "emotion_ru": "неясно",
+      "style_ru": "комикс",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинки для открытки с женщиной в косичках",
+        "Комиксы про девушек с косичками",
+        "Женщина в фиолетовом топе на открытке"
+      ]
+    },
+    {
+      "item_id": "nyu_6d7bfac22e6a889428194734",
+      "image_sha256": "36596c13c1cbac702c4ab676124637f2a61012028d17d6d87b7119558a98b5dd",
+      "caption_en": "A cartoon woman with brown hair, wearing a pink shirt and blue pants, appears to be in discomfort, holding her stomach.",
+      "caption_ru": "Карикатура женщины с коричневыми волосами, одетой в розовую рубашку и синие брюки, кажется, что она испытывает дискомфорт, держа живот.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как избавиться от боли в животе?",
+        "Что делать при болях в животе?",
+        "Почему у меня болит живот?"
+      ]
+    },
+    {
+      "item_id": "nyu_9aada49bc640ee84ecc45045",
+      "image_sha256": "78ed998a59948638ab8eb0669204ce1cbd99ec3281e5b9c0bbee0fcea72f2bf6",
+      "caption_en": "A person wearing a light blue shirt and tie, leaning forward.",
+      "caption_ru": "Человек в светло-голубой рубашке и галстуке, опирающийся на стол.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "как одеваться на работу",
+        "фото человека в рубашке",
+        "как носить галстук"
+      ]
+    },
+    {
+      "item_id": "nyu_f4abd9e4bb5a365cbd5538ac",
+      "image_sha256": "87ef5f9e467db22a0d6eef09b2f9fcdc3b1505b5407c9c41faf76f7c90f98209",
+      "caption_en": "A detailed black and white line drawing of a character wearing a cloak and a dress, smiling.",
+      "caption_ru": "Черно-белый рисунок персонажа в плаще и платье, улыбающегося.",
+      "emotion_ru": "счастливое",
+      "style_ru": "иллюстрация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа в плаще?",
+        "Какие эмоции передает этот рисунок?",
+        "Какой стиль рисования используется?"
+      ]
+    },
+    {
+      "item_id": "nyu_429e23e8704e647120f77fbe",
+      "image_sha256": "b452ea91c5b49a85a59144492e810ede7c02d57bb463589ff95657aa07d86267",
+      "caption_en": "A cute anime-style character with white hair and blue eyes, wearing a pink and white dress, pointing forward.",
+      "caption_ru": "Картинка с милым аниме-персонажем с белыми волосами и голубыми глазами, одетым в розовую и белую одежду, указывающим вперед.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с белыми волосами",
+        "Рисунок с милой девушкой в розовом платье",
+        "Как нарисовать аниме персонажа"
+      ]
+    },
+    {
+      "item_id": "nyu_3803a235604a8d94e7748ba2",
+      "image_sha256": "c53c8bc7eb5f2c7a47890fef0fa34a7947d2e26fcd73c84db7069e20714c38c2",
+      "caption_en": "A cartoon character with dark hair and a blue shirt appears to be breaking through a surface, surrounded by white lines.",
+      "caption_ru": "Картинка с изображением мультяшного персонажа с темными волосами и синей рубашкой, который выглядит, как будто он прорывается сквозь поверхность, окруженный белыми линиями.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "DIGE",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа в стиле аниме?",
+        "Что означает текст DIGE на картинке?",
+        "Как сделать эффект разрушения поверхности в рисунке?"
+      ]
+    },
+    {
+      "item_id": "nyu_df7259fb7be1c26c0748ff5e",
+      "image_sha256": "7e1002c3eb366aa018f17926e3817ce40599776f1c77595b044adfd9f80fb61d",
+      "caption_en": "A person wearing a black shirt with a Balenciaga logo and a microphone attached to their shirt.",
+      "caption_ru": "Человек в черной футболке с логотипом Balenciaga и микрофоном на шее.",
+      "emotion_ru": "неясно",
+      "style_ru": "простой повседневный стиль",
+      "ocr_text": "Balenciaga",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Что означает логотип Balenciaga?",
+        "Как выглядит одежда от Balenciaga?",
+        "Какие аксессуары используются для выступлений?"
+      ]
+    },
+    {
+      "item_id": "nyu_0bf7e755347453a1652ba779",
+      "image_sha256": "7a8ed4edd035e869bc84f475c61242a2645ff89e9f45028f58d200158f61d39f",
+      "caption_en": "A cute anime girl holding a burger with hearts and the phrase 'いただきます!' next to her.",
+      "caption_ru": "Картинка с милой аниме-девочкой, держащей гамбургер и рядом фраза 'いただきます!'.",
+      "emotion_ru": "радость",
+      "style_ru": "аниме",
+      "ocr_text": "いただきます!",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме-девочка с гамбургером",
+        "Японский стиль с едой",
+        "Фраза 'いただきます!' в аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_7c88206b90b9a59341f01d41",
+      "image_sha256": "4b4b5ce8c54cf3952838613c70e6d89afc83c682b4260f0015923ff2273cc5f6",
+      "caption_en": "A cute cartoon character with green hair holding a laptop showing a rising graph.",
+      "caption_ru": "Милая кавайная персонаж с зелеными волосами держит ноутбук с растущей графикой.",
+      "emotion_ru": "счастливый",
+      "style_ru": "кавайный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с кавайным персонажем и ноутбуком",
+        "Иллюстрация с растущей графикой на экране",
+        "Мультяшный персонаж с зелеными волосами"
+      ]
+    },
+    {
+      "item_id": "nyu_00618bca058b17c2020abd04",
+      "image_sha256": "7007873ba553fbe28e3e3b6ed8c6099e8baee8a82d188ee400b544a775128686",
+      "caption_en": "A blue fluffy bird wearing sunglasses holds a pink ice cream cone on a sandy beach.",
+      "caption_ru": "Синяя пушистая птица в солнцезащитных очках держит мороженое на пляже.",
+      "emotion_ru": "веселое",
+      "style_ru": "анимационный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как сделать птицу из плюша?",
+        "Как нарисовать птицу с мороженым?",
+        "Как сделать птицу в стиле анимации?"
+      ]
+    },
+    {
+      "item_id": "nyu_0318160db934b5ddcd05e5ae",
+      "image_sha256": "bf913879a159fee803a6397c8c8ff4f6ea835484d70f7d7fe9accb6a91cd58a7",
+      "caption_en": "A young girl with dark hair and bangs wearing a white shirt and red apron.",
+      "caption_ru": "Молодая девушка с темными волосами и челкой в белой рубашке и красной фартуке.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "DIGE",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимация девушки в фартуке",
+        "изображение девочки в аниме стиле",
+        "как нарисовать девочку в фартуке"
+      ]
+    },
+    {
+      "item_id": "nyu_d40f74f99a448f71fa2c71e5",
+      "image_sha256": "3568067d00871e7e7002d61d734d9c6a003c2cd61ad21d2a94e25abe48075cc7",
+      "caption_en": "A stick figure with a sad expression and crossed arms, with the text 'I'm Through With You!' above.",
+      "caption_ru": "Точечный человек с печальным выражением лица и скрещенными руками, над ним текст 'Я больше не с тобой!'.",
+      "emotion_ru": "печаль",
+      "style_ru": "простой рисунок",
+      "ocr_text": "I'm Through With You!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Как нарисовать грустного человека?",
+        "Что означает фраза 'I'm Through With You?'?",
+        "Какие эмоции передает этот рисунок?"
+      ]
+    },
+    {
+      "item_id": "sq_1833563040931381730",
+      "image_sha256": "faeb279da556f0824facdd170145ef0339eda972238b1afd47f1dddc64efed3c",
+      "caption_en": "A cute cartoon cat with closed eyes and a paw near its face.",
+      "caption_ru": "Милая мультяшная кошка с закрытыми глазами и лапкой у лица.",
+      "emotion_ru": "спокойствие",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Картинка с милой кошкой для обложки",
+        "Иллюстрация с кошкой для детей",
+        "Мультяшная кошка для открытки"
+      ]
+    },
+    {
+      "item_id": "nyu_c02b72dc1bf1b255f32540ee",
+      "image_sha256": "86b6e8bf2299cdca88ec3b35f4092cffd7cdc05b6f4c19843ce714850e03863d",
+      "caption_en": "A person wearing a beanie looks out of a window at their reflection smoking.",
+      "caption_ru": "Человек в шапке смотрит на свое отражение в окне, держа сигарету.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимационный персонаж с сигаретой",
+        "человек в шапке смотрит в окно",
+        "отражение в окне"
+      ]
+    },
+    {
+      "item_id": "nyu_44eb0cc2ac081105079db919",
+      "image_sha256": "b835d1b34cb98aeedd4d585578207ce62bf50e2c2457de135729c99759de6a5f",
+      "caption_en": "A smiling person wearing a dark hoodie with ear piercings.",
+      "caption_ru": "Улыбающийся человек в темной худи с проколами в ушах.",
+      "emotion_ru": "счастливый",
+      "style_ru": "современный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Как выглядит этот человек?",
+        "Что за стиль одежды?",
+        "Какие у него проколы?"
+      ]
+    },
+    {
+      "item_id": "nyu_e791268de705eb734bec5750",
+      "image_sha256": "1883e56cb059a4e5bcd79b553236d9c2f57f5382889c4906bccb877f834237cf",
+      "caption_en": "A cartoon cat with a mischievous expression, holding something in its paw.",
+      "caption_ru": "Картунный кот с подозрительным выражением лица, держащий что-то в лапе.",
+      "emotion_ru": "подозрительно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картунный кот с подозрительным выражением",
+        "Кот из мультфильма с лапой",
+        "Мультяшный кот с неуверенным взглядом"
+      ]
+    },
+    {
+      "item_id": "nyu_e23edc6049e0ca76d2d51203",
+      "image_sha256": "cd4010feca8e93ed79b1eeefba749252b8e4a42cab59ab1bd306e9f13bb117ea",
+      "caption_en": "A person wearing a white shirt holding a drink with a straw.",
+      "caption_ru": "Человек в белой футболке держит напиток с трубочкой.",
+      "emotion_ru": "неясно",
+      "style_ru": "современный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как носить белую футболку",
+        "как сделать прическу с длинными волосами",
+        "как выбрать подходящий напиток"
+      ]
+    },
+    {
+      "item_id": "nyu_463f4926dd3ec952a76516c6",
+      "image_sha256": "169509eacc13532ae87735ce45ec4d50fac8b5a68dbf86f6267c595214d14306",
+      "caption_en": "A cartoon character with black hair and suspenders, smiling with stars around their head.",
+      "caption_ru": "Карикатура с черными волосами и подтяжками, улыбающийся с звездами вокруг головы.",
+      "emotion_ru": "счастливый",
+      "style_ru": "аниме",
+      "ocr_text": "ARA SARD",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа в стиле аниме?",
+        "Что означает надпись 'ARA SARD'?",
+        "Какие эмоции передает этот персонаж?"
+      ]
+    },
+    {
+      "item_id": "nyu_96aecceb335e90d251c63a6c",
+      "image_sha256": "0792763090dca3c7dfa889045757e39e0374927740fbdf2f39c1a82d9703f86a",
+      "caption_en": "A person wearing a black cap and scarf, waving.",
+      "caption_ru": "Человек в черной кепке и шарфе, машет рукой.",
+      "emotion_ru": "неясно",
+      "style_ru": "повседневный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как одеваться зимой",
+        "модные аксессуары осень-зима",
+        "как держать руку при приветствии"
+      ]
+    },
+    {
+      "item_id": "nyu_c33a9b6b3044e7cabc9e56de",
+      "image_sha256": "9cc4e00a0a89acbfedcae7dba6b1d9af7b8f95a8b84ed384239585af70f59316",
+      "caption_en": "A cute cartoon dog hugging a potato.",
+      "caption_ru": "Милое мультяшное изображение собаки, обнимающей картофель.",
+      "emotion_ru": "радость",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с собакой и картофелем",
+        "Милые животные в объятиях друг друга",
+        "Иллюстрация для детей"
+      ]
+    },
+    {
+      "item_id": "sq_6334772832534266436",
+      "image_sha256": "6f05d7d04343bd75c33d1e77fe79f90b6ef06834f472d6d200b0ba8cc6b68f04",
+      "caption_en": "A cat wearing sunglasses and giving a thumbs-up gesture.",
+      "caption_ru": "Кот в солнцезащитных очках и жестом одобрения.",
+      "emotion_ru": "позитивное",
+      "style_ru": "мем",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "кот в солнцезащитных очках",
+        "жест одобрения кота",
+        "мем с котом"
+      ]
+    },
+    {
+      "item_id": "nyu_398cbf00ceb922064c866e58",
+      "image_sha256": "2bd87626a264336113ee0f74a29adeca2698f79ed30eaf3c505514f9d5c8045f",
+      "caption_en": "A person with long hair wearing a white and red checkered top, smiling.",
+      "caption_ru": "Человек с длинными волосами в белой и красной клетчатой блузке, улыбающийся.",
+      "emotion_ru": "счастливый",
+      "style_ru": "повседневный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как носить клетчатую блузку",
+        "стиль повседневной одежды",
+        "улыбка на фото"
+      ]
+    },
+    {
+      "item_id": "nyu_a74e1477b930f71ccdb56b43",
+      "image_sha256": "0333f14d6a4f9ea46c6bb28770af7db587741b9faebdf93f9b3a9feaad4107fe",
+      "caption_en": "A cartoon character with a cold, holding a thermometer and ice packs on their head.",
+      "caption_ru": "Карикатура человека с простудой, держащего термометр и лед на голове.",
+      "emotion_ru": "неясно",
+      "style_ru": "комикс",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как лечить простуду в комиксе?",
+        "Иллюстрация человека с простудой",
+        "Как изобразить простуду в комиксе?"
+      ]
+    },
+    {
+      "item_id": "nyu_42b7c85c1b391b032cc57c21",
+      "image_sha256": "1ec455701d38b0e99e9f31ef04edc9e239fc5485951a80873838ac6b5094890a",
+      "caption_en": "A cute cartoon cat wearing sunglasses and a red collar with flowers, sitting on a red chair.",
+      "caption_ru": "Милая мультяшная кошка в солнцезащитных очках и красном ошейнике с цветочками, сидящая на красном стуле.",
+      "emotion_ru": "неясно",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с котом в очках",
+        "Милый котенок на стуле",
+        "Кошка в солнцезащитных очках"
+      ]
+    },
+    {
+      "item_id": "nyu_1bb87f2cbc927abf9f980951",
+      "image_sha256": "e4c368ad7b00f287d585bfcbd41d69832d1fce1074eb31251b24931effea100f",
+      "caption_en": "Close-up of a cat's face with wide eyes and an open mouth.",
+      "caption_ru": "Близкий план лица кошки с широко открытыми глазами и открытой пастью.",
+      "emotion_ru": "неясно",
+      "style_ru": "черно-белый",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "как сделать фото кошки забавным",
+        "как сделать кота с удивленным выражением",
+        "как сделать кота с открытым ртом"
+      ]
+    },
+    {
+      "item_id": "nyu_c35834a2dff67e69e9cd59e2",
+      "image_sha256": "9f61c773a743a34fb01eb9df623a8cf71a9b0b3e17cb1721e4c446d065b81e32",
+      "caption_en": "A baby is crying with the word 'ungaa' repeated below.",
+      "caption_ru": "Младенец плачет, под ним написано слово 'унгага'.",
+      "emotion_ru": "плач",
+      "style_ru": "реалистичный",
+      "ocr_text": "ungaa.. ungaa..ungaa",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как успокоить плачущего ребенка",
+        "что означает слово 'унгага'",
+        "какие мемы с плачущими младенцами"
+      ]
+    },
+    {
+      "item_id": "nyu_bbdc4d91d952ab29c4791062",
+      "image_sha256": "33684620d10ece6da328f877e32b5388d338637fef5d47ba720ab3ace6f323da",
+      "caption_en": "A cartoon character wearing a military-style jacket and hat, flexing their arms and looking angry.",
+      "caption_ru": "Карикатура человека в военной куртке и кепке, сжимающего кулаки и выглядящего сердито.",
+      "emotion_ru": "сердито",
+      "style_ru": "карикатура",
+      "ocr_text": "Day R",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Как нарисовать военного с кулаками?",
+        "Что означает выражение лица в этой картинке?",
+        "Какие эмоции передает этот персонаж?"
+      ]
+    },
+    {
+      "item_id": "nyu_739a82cb0abf5c47561b6743",
+      "image_sha256": "a050480babdc96dc1530bdf8bdd14301b9e565f856ab672dac1e408867716aec",
+      "caption_en": "An anime character with long blonde hair and a blue face sticking out their tongue.",
+      "caption_ru": "Аниме-персонаж с длинными светлыми волосами и синей кожей, высовывающий язык.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с языком",
+        "Картинка с аниме персонажем",
+        "Язык в аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_ac231eca60eac0ac71c0c188",
+      "image_sha256": "b4d1acaa7d245fde40c4af3e7089d7083d5ba087de25e38c6ad77544a12ae887",
+      "caption_en": "A cartoon mouse in a dynamic pose, appearing surprised or startled.",
+      "caption_ru": "Картунная мышь в динамической позе, выглядящая удивленной или испуганной.",
+      "emotion_ru": "удивленная/испуганная",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать мышку из мультфильма?",
+        "Что означает выражение лица у мышки?",
+        "Какие эмоции могут передать такие позы?"
+      ]
+    },
+    {
+      "item_id": "nyu_d76b94b48d3ea27179d1fba2",
+      "image_sha256": "3772b527ebd1746f4cef54c7479ef1225031c6d8dfe3ecb5a2e4cea6f8390e69",
+      "caption_en": "A message from Mikhailo about the decline of the right wing of the CIS.",
+      "caption_ru": "Сообщение от Михайло о смерти правого фронта СНГ.",
+      "emotion_ru": "негативное",
+      "style_ru": "сообщение в мессенджере",
+      "ocr_text": "Михайло\nВот так и умирает правый фронт СНГ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Состояние правого фронта СНГ",
+        "Политическая ситуация в СНГ",
+        "Деятельность Михайло"
+      ]
+    },
+    {
+      "item_id": "nyu_34f88b3fdcc99d0d6571e4f3",
+      "image_sha256": "56768e2f188f6fd5d621262ee72a4e4beb0fd259e6b2fced37001a9a5409ad0e",
+      "caption_en": "Offline message from Ran saying goodbye for something better and expressing confidence.",
+      "caption_ru": "Сообщение от Рана, говорящее про прощание и что-то лучшее, а также выражая уверенность.",
+      "emotion_ru": "неясно",
+      "style_ru": "текстовое сообщение",
+      "ocr_text": "Ran [ OFFLINE ]\nKita berpisah untuk sesuatu yang lebih baik. Mungkin, agak menggelikan hidup tanpamu. Tapi, aku yakin aku mampu.",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Какое сообщение от Рана?",
+        "Что означает сообщение Рана?",
+        "Какие чувства переданы в сообщении Рана?"
+      ]
+    },
+    {
+      "item_id": "nyu_89a566924be0f2042cfdf6cd",
+      "image_sha256": "386020070a996c84830328743ce3ee97be82230672da6a5d8f1325d565f10b0b",
+      "caption_en": "A cartoon character with a large, dark purple afro and a worried expression.",
+      "caption_ru": "Картунный персонаж с большими темными волосами афро и испуганным выражением лица.",
+      "emotion_ru": "страх",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа с афро?",
+        "Что означает выражение лица персонажа?",
+        "Какие эмоции могут передать такие волосы?"
+      ]
+    },
+    {
+      "item_id": "nyu_b36f23ab00988429ff3a9adc",
+      "image_sha256": "773a69a22275934e6ff6e6f0ac7f341764ab609bfe94c40ba15c070969d2b9b8",
+      "caption_en": "Close-up of a character with large, expressive eyes and a soft smile.",
+      "caption_ru": "Близкий план персонажа с большими, выразительными глазами и нежной улыбкой.",
+      "emotion_ru": "счастливый",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать глаза в стиле аниме?",
+        "Какие есть приложения для рисования аниме-персонажей?",
+        "Как сделать аниме-портрет?"
+      ]
+    },
+    {
+      "item_id": "nyu_25bee772b766856b347d6c88",
+      "image_sha256": "1bb679d7a5707ca04697af280ab561bfe88f0d7c286e4038c0e6671dcffb19d1",
+      "caption_en": "A person in a light blue shirt holding a pink rose.",
+      "caption_ru": "Человек в светло-голубой рубашке держит розу.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "как сделать такой портрет",
+        "какие цветы дарить",
+        "как одеваться на свидание"
+      ]
+    },
+    {
+      "item_id": "nyu_934f53e78d9973c0eb083b01",
+      "image_sha256": "162979ff40007cabf7710ea68c6fd3d262d90437daaca749c35955a23c586a90",
+      "caption_en": "A cute anime character with red eyes and mechanical horns on their head.",
+      "caption_ru": "Картинка с милым аниме-персонажем с красными глазами и механическими рогами на голове.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с механическими рогами",
+        "Милый аниме персонаж с красными глазами",
+        "Игровой персонаж в стиле аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_3f48d7246777780d25525f77",
+      "image_sha256": "ce7c9d77dd6a3e787066ea8bff2d703bbbf3f460def316b2da51a601c3ed5e9a",
+      "caption_en": "A simple, hand-drawn cartoon face with two dots for eyes and a curved line for a mouth.",
+      "caption_ru": "Простой рисунок мультяшного лица с двумя точками для глаз и изогнутой линией для рта.",
+      "emotion_ru": "неясно",
+      "style_ru": "ручной рисунок",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать простое мультяшное лицо?",
+        "Идеи для детского рисования простых лиц",
+        "Как сделать открытку с простым мультяшным лицом?"
+      ]
+    },
+    {
+      "item_id": "nyu_26f1b6a69846f90d07f0a78c",
+      "image_sha256": "74f630390bb95bf7b5fd1f3a46416ea391bd55c78bbd16b0303639d761eb66c2",
+      "caption_en": "Cartoon character with purple hair and yellow dress, holding their back, with text 'CAN'T TOUCH THIS' above.",
+      "caption_ru": "Карикатура с персонажем с фиолетовыми волосами и желтым платьем, держащим спину, надпись 'CAN'T TOUCH THIS' сверху.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "CAN'T TOUCH THIS",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Картинка с надписью 'CAN'T TOUCH THIS'",
+        "Комикс с персонажем в желтом платье",
+        "Иллюстрация с фразой 'CAN'T TOUCH THIS'"
+      ]
+    },
+    {
+      "item_id": "sq_5379585312928304150",
+      "image_sha256": "44b4fe952c8b34d2b9ac5c85ead2fbf3b9d1b23971880c37db5fc77337ade988",
+      "caption_en": "A blue cartoon character wearing overalls opens a door.",
+      "caption_ru": "Картунный синий персонаж в комбинезоне открывает дверь.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа из мультфильма?",
+        "Что за мультфильм с таким персонажем?",
+        "Какие есть похожие мультфильмы?"
+      ]
+    },
+    {
+      "item_id": "nyu_2bf42fb61c64ad762221d5cb",
+      "image_sha256": "f8e3c0fbd62a522ef04230255fe4d9eef1be72c3fef4ae51ac74a1cb0c01f36d",
+      "caption_en": "Close-up of a baby with blue eyes and a slightly furrowed brow.",
+      "caption_ru": "Близкий план лица ребенка с голубыми глазами и слегка скосившимся бровями.",
+      "emotion_ru": "недовольство",
+      "style_ru": "реалистичный портрет",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Какие глаза у ребенка на фото?",
+        "Что выражает ребенок на фотографии?",
+        "Какие детали на фото привлекают внимание?"
+      ]
+    },
+    {
+      "item_id": "nyu_23088eb2d10c5618cf9ce98b",
+      "image_sha256": "2c32235410ea887ceed3ea2b087be612db9eb21de2c3990ed3e674e584b81935",
+      "caption_en": "A young girl with red hair and a yellow hoodie looks to the side.",
+      "caption_ru": "Молодая девочка с рыжими волосами и желтой худи смотрит в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме-персонаж с рыжими волосами",
+        "Девочка в желтой худи",
+        "Изображение мультяшной девочки"
+      ]
+    },
+    {
+      "item_id": "nyu_05c1bd18a1e7e7c72a5a6e67",
+      "image_sha256": "1c3faf3061de926a96abc3ee411a3fe80606f78d424c127db401607351bfdb3c",
+      "caption_en": "A manga-style drawing of a person with spiky hair and a surprised expression.",
+      "caption_ru": "Манга-стильный рисунок человека с раздраженной морщиной и удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "манга",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать мангу?",
+        "Что означает выражение лица в манге?",
+        "Какие эмоции можно передать в манге?"
+      ]
+    },
+    {
+      "item_id": "nyu_482ade3f6088f2510e0e2271",
+      "image_sha256": "c6485b88e5638d0a77432c91973e267168aa90b8e86fe0be7de8acb636a7e845",
+      "caption_en": "A cute chibi character with long blonde hair and a hat, holding a small animal.",
+      "caption_ru": "Милая чиби-персонаж с длинными светлыми волосами и шапочкой, держащий маленькую зверушку.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме/чиби",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с милою персоной в стиле чиби",
+        "Как нарисовать персонажа в стиле чиби",
+        "Игрушки для детей в стиле чиби"
+      ]
+    },
+    {
+      "item_id": "nyu_aeb950829a3a65ef8901fe69",
+      "image_sha256": "4198d68faf3bf790eb7645a2cdc4e1da2c6578bdd99185ceb16d8ca0905d492e",
+      "caption_en": "A person sitting outdoors, leaning on a stroller, smiling.",
+      "caption_ru": "Человек сидит на улице, опираясь на коляску, улыбаясь.",
+      "emotion_ru": "счастливое",
+      "style_ru": "реалистичный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как сделать улыбку таким образом",
+        "как фотографировать людей на улице"
+      ]
+    },
+    {
+      "item_id": "nyu_39a3177d44868fff582d3bba",
+      "image_sha256": "b790bc7d7296f2abdaa0a8641d23959a7ab5921e7952a22ce66b438a87fea925",
+      "caption_en": "A person with long, dyed hair and makeup holding a drink.",
+      "caption_ru": "Человек с длинными окрашенными волосами и макияжем держит напиток.",
+      "emotion_ru": "неясно",
+      "style_ru": "фильм или сериал",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "как выглядит персонаж из фильма",
+        "кто это на картинке",
+        "что за фильм"
+      ]
+    },
+    {
+      "item_id": "nyu_1e64a444c617ea6fee354be8",
+      "image_sha256": "b144676b6991786c528cc5d1e84bdc7e9ff31a129122fa7362ab9a4a9c9d623b",
+      "caption_en": "An animated character with orange hair and cat ears raises their arms in excitement, with the word 'WOW' above them.",
+      "caption_ru": "Анимированный персонаж с оранжевыми волосами и ушками кошки поднимает руки в возбуждении, над ним слово 'WOW'.",
+      "emotion_ru": "восхищение",
+      "style_ru": "анимация",
+      "ocr_text": "WOW",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "Картинка с анимированным персонажем, радующимся",
+        "Иллюстрация с выражением восхищения",
+        "Анимационный персонаж с надписью 'WOW'"
+      ]
+    },
+    {
+      "item_id": "nyu_d1b8fb8f3724d87d5578a0e7",
+      "image_sha256": "11a1c316fb57ad82981126d4cd3f757630462e0f88c90b0fc170d5acd3f6002e",
+      "caption_en": "A cartoon character with blonde hair and large eyes, wearing a blue top and orange accents.",
+      "caption_ru": "Картинка с изображением персонажа в стиле аниме с блондинкой и большими глазами, одетого в синюю футболку с оранжевыми акцентами.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать персонажа в стиле аниме?",
+        "Какие есть программы для рисования персонажей?",
+        "Как сделать свой собственный персонаж в стиле аниме?"
+      ]
+    },
+    {
+      "item_id": "nyu_420fae651b6e5961a93fb9f5",
+      "image_sha256": "48f2f969e82cefe9011944a83ccc17577a18c61d69fe658ca7057b0689b0cf74",
+      "caption_en": "A close-up of an anime character with dark hair and blue eyes, looking thoughtful.",
+      "caption_ru": "Близкий план аниме-персонажа с темными волосами и голубыми глазами, смотрящего в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "HR",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с темными волосами и голубыми глазами",
+        "Изображение аниме персонажа с мыслящим выражением лица",
+        "Картинка с аниме персонажем в позе размышления"
+      ]
+    },
+    {
+      "item_id": "nyu_83a1b6a057ecedee97db8e74",
+      "image_sha256": "1ffa57fde271575374d38835ce149eec644fdda6ff7e0f5b771163c1599e66f6",
+      "caption_en": "A character holding a guitar with a sticker that appears to be a map or diagram.",
+      "caption_ru": "Персонаж держит гитару с наклейкой, которая похожа на карту или схему.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как сделать наклейку в виде карты?",
+        "Какие инструменты нужны для создания наклейки?",
+        "Какие стили анимации используются в современных мультфильмах?"
+      ]
+    },
+    {
+      "item_id": "nyu_ec0cbcd4b2dc9e91e264b270",
+      "image_sha256": "0aba11ddc0bb7ca0c613a9c493999eaf5fc733ed50e262865365edff97378fd3",
+      "caption_en": "A cartoon character with long brown hair and glasses, smiling with sparkles around them.",
+      "caption_ru": "Карикатура с длинными коричневыми волосами и очками, улыбающаяся с блестками вокруг.",
+      "emotion_ru": "счастливое",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинка с улыбающимся персонажем в стиле аниме",
+        "Как нарисовать персонажа с блестками",
+        "Игровой персонаж с длинными волосами"
+      ]
+    },
+    {
+      "item_id": "nyu_e8a0f059c820d0d174158716",
+      "image_sha256": "bbf1147e22200fbfae1357d8e4c2c100aa8f0393a288a33798d9f5b5c066315a",
+      "caption_en": "A person wearing a light-colored jacket and a necklace with a small gemstone.",
+      "caption_ru": "Человек в светлой куртке и ожерелье с небольшим камнем.",
+      "emotion_ru": "неясно",
+      "style_ru": "снимок из жизни",
+      "ocr_text": "1!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "как выглядит ожерелье с камнем",
+        "как одевается человек на фото",
+        "что значит надпись '1!'"
+      ]
+    },
+    {
+      "item_id": "nyu_6215147310132efd004dac2e",
+      "image_sha256": "903a999661a20a80b33bad69f6f089b13411113556848a583641002624e1afe8",
+      "caption_en": "A person wearing a red shirt with a blue street sign above them that has been crossed out.",
+      "caption_ru": "Человек в красной футболке с синим дорожным знаком над головой, который был перекрещен.",
+      "emotion_ru": "неясно",
+      "style_ru": "фотография с элементами графики",
+      "ocr_text": "ВЕСЕЛАЯ ЖИЗНЬ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Как сделать перекрестный эффект на дорожном знаке?",
+        "Какие эмоции передает человек на фотографии?",
+        "Какие стили графики часто используются в дизайне?"
+      ]
+    },
+    {
+      "item_id": "nyu_7ea64173794eecf8c76713c9",
+      "image_sha256": "5ab4ca44ff6d32ec251c91053ebc0d8b2b8d323c7629e0307971a683790326b1",
+      "caption_en": "A golden accordion sticker with Cyrillic text below it.",
+      "caption_ru": "Золотой аккордеон на наклейке с кириллическим текстом под ним.",
+      "emotion_ru": "неясно",
+      "style_ru": "графический дизайн",
+      "ocr_text": "ТРИЖДЫ БОЯН НИЖНЕГО ЮМORA",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Золотой аккордеон с надписью",
+        "Наклейка с аккордеоном и текстом",
+        "Кириллический текст на аккордеоне"
+      ]
+    },
+    {
+      "item_id": "nyu_ba375a9a4546d4d6859d1138",
+      "image_sha256": "40ed20bf8072ecb732b99c21ba8852d4a82e1da5f0d24971d64335ea4e2b49a2",
+      "caption_en": "A person in a black and red outfit with cat ears and a thought bubble containing text.",
+      "caption_ru": "Люди в черно-красной одежде с ушками кошки и мыслящей пузырьком с текстом.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме/косплей",
+      "ocr_text": "T.ME/STIKERFORALL\n@STIKERFORALL\nDIGE44",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Косплей с ушками кошки",
+        "Аниме персонажи в костюмах",
+        "Мыслящие пузырьки в изображениях"
+      ]
+    },
+    {
+      "item_id": "nyu_a46f78add821649ca5307f10",
+      "image_sha256": "769db9ba30533836d535d95ca97c6d0b475f64303c85944e9a306bd8e7f7c477",
+      "caption_en": "Close-up of a cat's face with a blurry background.",
+      "caption_ru": "Близкий план лица кошки с размытым фоном.",
+      "emotion_ru": "неясно",
+      "style_ru": "фотография",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "как фотографировать кошек",
+        "как ухаживать за кошками",
+        "какие породы кошек популярны"
+      ]
+    },
+    {
+      "item_id": "nyu_4afb49143a26d624ab881f79",
+      "image_sha256": "6d7fb08c6e4bacf6985df8dc514afbcf4bb798196a06c330d47b820b3e1e491a",
+      "caption_en": "A black and white sticker with the text 'Aku Safe ya' written in a playful font.",
+      "caption_ru": "Черно-белый стикер с текстом 'Aku Safe ya', написанным в забавном шрифте.",
+      "emotion_ru": "неясно",
+      "style_ru": "игровой, забавный",
+      "ocr_text": "Aku Safe ya",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как переводится фраза на стикере?",
+        "Что означает 'Aku Safe ya'?",
+        "Где можно купить такой стикер?"
+      ]
+    },
+    {
+      "item_id": "nyu_ddd7fbc8521dac17f128e2cf",
+      "image_sha256": "fe6567d4ae3fe6f1e6b57db5077d1907cd33b5813ba41aae75c40e9f69ea667d",
+      "caption_en": "A person holding a bowling ball with a surprised expression.",
+      "caption_ru": "Человек держит боуллинг-шар с удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "фотография",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Как сделать фото с удивленным выражением лица?",
+        "Какие эмоции можно передать на фотографии?",
+        "Какие стили фотографий существуют?"
+      ]
+    },
+    {
+      "item_id": "nyu_0ac53587aac30abd864489ed",
+      "image_sha256": "0af4c981c92a9980631a8ec38953da76850c5b0b7e44566375c36da2e3e4e21f",
+      "caption_en": "A cartoon slice of bread with a sad face.",
+      "caption_ru": "Картинка хлеба в виде соломки с печальным выражением лица.",
+      "emotion_ru": "печаль",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как сделать хлеб с таким выражением?",
+        "Что означает такой хлеб?",
+        "Как нарисовать хлеб с таким лицом?"
+      ]
+    },
+    {
+      "item_id": "nyu_ee8d8435cac0cc882fbd4e3c",
+      "image_sha256": "3133fbd96d57acd1d11a29c210153b56a58822958a4a164c36200fa26cbd67ff",
+      "caption_en": "A cartoon character wearing a fez hat looks confused and asks 'What are we doing here?'",
+      "caption_ru": "Картунный персонаж в фесе смотрит в затрудненном выражении лица и спрашивает: \"Что мы тут делаем?\"",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "Что мы тут\nделаем?",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Картинка с вопросом о том, что делать",
+        "Иллюстрация с персонажем в фесе",
+        "Как нарисовать персонажа в затрудненном состоянии"
+      ]
+    },
+    {
+      "item_id": "nyu_501888b6a94baafaff41e556",
+      "image_sha256": "1aa8a08e492d0ca30faf9039577815ee9ff942a935f221db9c209ca9e58ff359",
+      "caption_en": "An anime character with blonde hair and red eyes, wearing a traditional outfit.",
+      "caption_ru": "Аниме-персонаж с блондинкой и красными глазами, одетый в традиционную одежду.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "@Y2LAB",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с блондинкой",
+        "Традиционная одежда в аниме",
+        "Красные глаза в аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_d40a5b21368d9812bd1e20a9",
+      "image_sha256": "4374eeefd3c9f3c9499085d0e81638b3a1a465e8057bea2097513aac8d6d8337",
+      "caption_en": "A cute anime character with purple hair and traditional attire, holding a golden coin.",
+      "caption_ru": "Картинка с милым аниме-персонажем с фиолетовыми волосами и традиционной одеждой, держащим золотую монету.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "88888888",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с фиолетовыми волосами",
+        "Традиционная одежда в аниме стиле",
+        "Золотая монета в руках персонажа"
+      ]
+    },
+    {
+      "item_id": "nyu_8642ac799d5466f09379c9dc",
+      "image_sha256": "9650d6dd9df23b1d09b725c746ac5d36b54932954c1c5ec83bd2f848b7f4c074",
+      "caption_en": "A character with purple skin and spiky hair wearing a red and blue outfit with yellow boots.",
+      "caption_ru": "Персонаж с фиолетовой кожей и шипастыми волосами в красно-синем костюме с желтыми ботинками.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимэ",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как выглядит персонаж из аниме?",
+        "Что за персонаж на картинке?",
+        "Какие есть похожие персонажи?"
+      ]
+    },
+    {
+      "item_id": "nyu_008d7819e460b6625a1471bd",
+      "image_sha256": "dade31e51a07bbf6edfd906cd137e862f1eabf36e70c7e96240260570af589b5",
+      "caption_en": "A cartoon character is falling backward with arms and legs spread out.",
+      "caption_ru": "Карикатурный персонаж падает назад, руки и ноги развернуты в стороны.",
+      "emotion_ru": "страх/удивление",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать падающего персонажа?",
+        "Какие эмоции передает этот персонаж?",
+        "Какой стиль рисования используется?"
+      ]
+    },
+    {
+      "item_id": "nyu_f99d95fe7ba8a8f556987665",
+      "image_sha256": "dc748c1eb879053453fbf63e9cba4e5826ee2e7649d4651090bb04535eea2de5",
+      "caption_en": "Close-up of a character with red hair and a serious expression.",
+      "caption_ru": "Близкий план персонажа с красными волосами и серьезным выражением лица.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "愛",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с красными волосами",
+        "Изображение персонажа с серьезным выражением",
+        "Карикатура с надписью '爱'"
+      ]
+    },
+    {
+      "item_id": "sq_6086783452382757374",
+      "image_sha256": "fc0d9dcd85cd37e27fd11171e011dd59fe92cb01937934644e46b4f8921496bb",
+      "caption_en": "A cartoon bear with a wide, toothy grin and a surprised expression.",
+      "caption_ru": "Карикатурный медведь с широкой улыбкой и удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Как нарисовать медведя с удивлением?",
+        "Картинки медведя с улыбкой для детей",
+        "Игры с медведем в стиле карикатуры"
+      ]
+    },
+    {
+      "item_id": "sq_1833563040931381751",
+      "image_sha256": "b02f9ac4874fd6cb99d0c4ab5784f491dafb41af30e4bdad6147e63da54af43e",
+      "caption_en": "A cute cartoon cat with big eyes and a happy expression.",
+      "caption_ru": "Милая мультяшная кошка с большими глазами и счастливым выражением лица.",
+      "emotion_ru": "счастливое",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "Картинка с милой кошкой для обмена сообщениями",
+        "Как нарисовать милую кошку в стиле мультфильма",
+        "Игры с милыми животными"
+      ]
+    },
+    {
+      "item_id": "nyu_96044ccf061177deb79dbc1d",
+      "image_sha256": "21bf3aa4fb6dbf78547fe4588ff15e1a5db521bf097136b48341fc455c82d155",
+      "caption_en": "An anime character with long white hair and red spots on their face, wearing a white robe with blue accents.",
+      "caption_ru": "Аниме-персонаж с длинными белыми волосами и красными пятнами на лице, одетый в белую тунику с синими акцентами.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "@zkyuji",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с белыми волосами",
+        "Красные пятна на лице аниме",
+        "Туника с синими акцентами"
+      ]
+    },
+    {
+      "item_id": "nyu_7705122072032bdea67a481d",
+      "image_sha256": "d039b6bc5b5dc00f942d3b0d4967265cd900a9df8c45fad674059a3fb724cf75",
+      "caption_en": "An anime-style character with red hair and a white cat face is screaming with their arms raised.",
+      "caption_ru": "Аниме-персонаж с красными волосами и белой кошачьей маской кричит, подняв руки вверх.",
+      "emotion_ru": "страх/страсть",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж с кошачьей маской",
+        "как нарисовать анимешного персонажа",
+        "анимешные персонажи с выражением страха"
+      ]
+    },
+    {
+      "item_id": "nyu_036ad7ac975acf382389c18f",
+      "image_sha256": "2bc93e5723f3d7275fad7d6bb5007d97aa98d533433a2f3de990c53e1f8d81e5",
+      "caption_en": "A cartoon cat wearing an Egyptian headdress and necklace, with a blue and white background.",
+      "caption_ru": "Карикатурный кот в египетском наряде с головным убором и ожерельем, на фоне синего и белого цветов.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "ЕГИПЕТСКАЯ СИЛА",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "Картинка с египетским котом",
+        "Египетская тематическая иллюстрация",
+        "Кот в египетском стиле"
+      ]
+    },
+    {
+      "item_id": "nyu_64c0f1d858fd2164dc747dda",
+      "image_sha256": "2bbdfbda3c3c1b3a961d5a83548fc41799737bd536b34565f8994a0ff989c324",
+      "caption_en": "A person wearing glasses and a striped shirt with suspenders, looking slightly to the side.",
+      "caption_ru": "Человек в очках и полосатой рубашке с подтяжками, смотрящий в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "современный",
+      "ocr_text": "한성?",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "кто такой человек на фото",
+        "что значит надпись на фото",
+        "как выглядит этот человек"
+      ]
+    },
+    {
+      "item_id": "nyu_112fb593a4daeff26f3960af",
+      "image_sha256": "ff062a374064ead76861bf9f5e5451567e423b1eefe4df35bbc9ea82cae634d8",
+      "caption_en": "A character with long pink hair and green eyes stands against a dark background.",
+      "caption_ru": "Персонаж с длинными розовыми волосами и зелеными глазами стоит на темном фоне.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Аниме персонаж с розовыми волосами",
+        "Изображение персонажа с зелеными глазами",
+        "Темный фон в аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_b7461c9454056b975c3b7e9e",
+      "image_sha256": "27b50dfb915666eb609efa88d831b24c23dc286debe0a8e4677a053556577b04",
+      "caption_en": "A cartoon frog wearing a helmet, holding a gun, and smoking a cigarette.",
+      "caption_ru": "Карикатура лягушки в шлеме, держащей автомат и курящей сигарету.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинки с лягушкой в шлеме",
+        "Картинки с автоматом и сигаретой",
+        "Картинки с вооруженной лягушкой"
+      ]
+    },
+    {
+      "item_id": "nyu_75944862a9f32dead2002a65",
+      "image_sha256": "fc5c69ceed523d184884325ba82ee18c551143b99ecbfe4fdb5e3c30279642a5",
+      "caption_en": "A character with brown hair and a blue uniform looks distressed against a dark background.",
+      "caption_ru": "Персонаж с короткими волосами и синей формой выглядит обеспокоенным на темном фоне.",
+      "emotion_ru": "напряжение",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Какие эмоции у персонажа в аниме?",
+        "Что происходит на заднем плане?",
+        "Какие детали одежды персонажа?"
+      ]
+    },
+    {
+      "item_id": "nyu_e2639b79b388f3030c2ad796",
+      "image_sha256": "761af8dbd14f8b3691f5a06291f56577a66468d183c32511b914436c43414bf7",
+      "caption_en": "A cartoon pug dog giving two thumbs up with a happy expression.",
+      "caption_ru": "Карикатура собаки породы пудель, показывающей два больших пальца вверх с улыбкой.",
+      "emotion_ru": "счастливый",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Картинки с собакой-пуделем",
+        "Поздравительные открытки с собаками",
+        "Иллюстрации для детей"
+      ]
+    },
+    {
+      "item_id": "nyu_2bd7beef97c3506c42498921",
+      "image_sha256": "64d143d39295f5c23665884a8ee2940941bf9c682226b0ee5acabe5d85087d8d",
+      "caption_en": "A cat stands on hind legs, holding a box with colorful patterns.",
+      "caption_ru": "Кот стоит на задних лапах и держит коробку с цветными узорами.",
+      "emotion_ru": "неясно",
+      "style_ru": "комикс",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "кот на задних лапах",
+        "коробка с узорами",
+        "комикс с котом"
+      ]
+    },
+    {
+      "item_id": "nyu_5c9de50a0fa6518fa127ef8e",
+      "image_sha256": "a817844d9f755bf829b525b4c5b2cc9de9ec50b4cbbd4d1fc8de6c7f4d82dff8",
+      "caption_en": "A black and white cartoon character with wide eyes and an open mouth, surrounded by 'XAA' symbols.",
+      "caption_ru": "Черно-белый карикатурный персонаж с широко открытыми глазами и открытой пастью, окруженный символами 'XAA'.",
+      "emotion_ru": "страх/удивление",
+      "style_ru": "карикатура",
+      "ocr_text": "XAA",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "Карикатура с выражением страха",
+        "Иллюстрация с символом 'XAA'",
+        "Черно-белая комическая ситуация"
+      ]
+    }
+  ],
+  [
+    {
+      "item_id": "nyu_0201dc6e713e5f6abaf4a9c5",
+      "image_sha256": "c8601bf72caffdf7be2553a4fc26711df19cf49477dfc4ee814061f31fb4241e",
+      "caption_en": "A cute cartoon character with glasses and a bow, smiling.",
+      "caption_ru": "Милая мультяшная фигурка с очками и бантом, улыбающаяся.",
+      "emotion_ru": "счастливое",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "милый мультяшный персонаж",
+        "счастливая мультяшка",
+        "бантик на голове"
+      ]
+    },
+    {
+      "item_id": "nyu_d39436e1a4961a7c12c6b948",
+      "image_sha256": "c4a32c6c6ab957a4fa4df34965ed26807ba6cb65ca776d94d2b545b510feab7d",
+      "caption_en": "A blue-haired character in traditional attire is holding a golden egg and smiling.",
+      "caption_ru": "Персонаж с синими волосами в традиционной одежде держит золотое яйцо и улыбается.",
+      "emotion_ru": "счастливый",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж с яйцом",
+        "счастливый персонаж",
+        "традициональная одежда"
+      ]
+    },
+    {
+      "item_id": "nyu_cae79e3007ae6d1720b7b31c",
+      "image_sha256": "85defe6196f939a57950fd96f923bbfe05d6b632f920661d3fe1aee0355b992a",
+      "caption_en": "A person making a heart shape with their hands and fingers.",
+      "caption_ru": "Люди делают сердце руками и пальцами.",
+      "emotion_ru": "любовь",
+      "style_ru": "фотография",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "сердце руками",
+        "любовь символ",
+        "символ любви"
+      ]
+    },
+    {
+      "item_id": "nyu_800d3294d52e369a0b8f3e5f",
+      "image_sha256": "a43953385234c42c33c7385e52974a92b757e00258915869b7f67c1e2361dcc5",
+      "caption_en": "A young child with dark hair and a white coat over a purple shirt.",
+      "caption_ru": "Маленький ребенок с черными волосами и белым пальто над фиолетовой рубашкой.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "ребенок в пальто",
+        "детский портрет",
+        "малыш в фиолете"
+      ]
+    },
+    {
+      "item_id": "nyu_68db91d21da85cde3e68c339",
+      "image_sha256": "69bc3b881c265908fec30a239677b9b57e6037cc431d3fe2ad05bfce22e90974",
+      "caption_en": "A cartoon newspaper character with one eye and a sad expression, raising a finger.",
+      "caption_ru": "Комикс-персонаж газеты с одним глазом и печальным выражением лица, поднимая палец.",
+      "emotion_ru": "печально",
+      "style_ru": "комикс",
+      "ocr_text": "FORGOT ABOUT ME?",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "журнал забыл меня",
+        "грустная газета",
+        "персонаж с одним глазом"
+      ]
+    },
+    {
+      "item_id": "nyu_f3adb5fff1d006899d511c2b",
+      "image_sha256": "433b6aa7af2224f81f9b5e7ad7745df3f8e5e03098f486845dbb6de0e261280a",
+      "caption_en": "A character is working at a computer while another character looks on with a tired expression.",
+      "caption_ru": "Персонаж работает за компьютером, другой персонаж выглядит устало.",
+      "emotion_ru": "усталость",
+      "style_ru": "иллюстрация",
+      "ocr_text": "宝宝想下班但宝宝不行",
+      "ocr_language": "zh",
+      "usage_queries_ru": [
+        "усталый персонаж",
+        "работа за компьютером",
+        "персонажи в офисе"
+      ]
+    },
+    {
+      "item_id": "nyu_a774a269f8975eb5e160ee5b",
+      "image_sha256": "3ac07f53917998c06a709f369285e16bc094c2e324a6ff38a35eaa5c61a6f768",
+      "caption_en": "A close-up of a person with dark hair and a serious expression.",
+      "caption_ru": "Близкий план лица человека с темными волосами и серьезным выражением.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "человек с серьезным лицом",
+        "анимационный персонаж",
+        "лицо в ближнем плане"
+      ]
+    },
+    {
+      "item_id": "nyu_a2b6f4f2de9efca20db36378",
+      "image_sha256": "af4159b4eb5db80aa5734a9b0c456f671a4853254e903c99915d3d5eef86fc2b",
+      "caption_en": "A cartoon tiger sits on a red boat with a lifebuoy, floating on wavy water.",
+      "caption_ru": "Карикатурный тигр сидит на красной лодке с lifebuoy, плавающей на волнах.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "карикатура тигра на лодке",
+        "lifebuoy на лодке",
+        "волны и лодка"
+      ]
+    },
+    {
+      "item_id": "nyu_125969ef4eb925a9b59cf74f",
+      "image_sha256": "3ddb3dd1193664806a57ec6c3df143ecc1be5e2c4d94f335cd81cd3845dfca29",
+      "caption_en": "A character with spiky hair holding a fan, with green Japanese text on the left.",
+      "caption_ru": "Персонаж с шипастыми волосами, держащий вентилятор, с зеленым японским текстом слева.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "確認中",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "японский персонаж",
+        "зеленый текст",
+        "шипастые волосы"
+      ]
+    },
+    {
+      "item_id": "nyu_d3c0fd3c503dae976e586879",
+      "image_sha256": "0bc2c7bc4e0670f1eedecf3c4afcbcecd00c8d79fbbc438e7c5f1ad4b1add6f5",
+      "caption_en": "A cartoon raccoon wearing a colorful cap and waving.",
+      "caption_ru": "Карикатура енота в цветной кепке и машущая рукой.",
+      "emotion_ru": "радостное",
+      "style_ru": "детский мультфильм",
+      "ocr_text": "ПРИВЕТИК",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "картинка с енотом",
+        "приветствие енота",
+        "милый енот"
+      ]
+    },
+    {
+      "item_id": "nyu_b3a0e79f6d52a1af921f8f9d",
+      "image_sha256": "bf39981464154e4a29bf07abafa0a64b34f7e74cb5bb9c1717dc93fbafb4def7",
+      "caption_en": "A cute cat with closed eyes and musical notes above its head.",
+      "caption_ru": "Милая кошка с закрытыми глазами и нотами над головой.",
+      "emotion_ru": "успокаивающая",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "музыкальная кошка",
+        "успокаивающий кот",
+        "анимешный котик"
+      ]
+    },
+    {
+      "item_id": "nyu_4f6da2b7aa8102d8a3a7f4c2",
+      "image_sha256": "2af479634f5a12677fa3e4d2b4d573ec54035cb62ce53c60b0c9c0a4e6929b51",
+      "caption_en": "A chibi-style character with bat ears, blue eyes, and a heart necklace, holding an orange cat.",
+      "caption_ru": "Карикатурный персонаж с ушами летучей мыши, голубыми глазами и ожерельем в форме сердца, держащий рыжего котенка.",
+      "emotion_ru": "неясно",
+      "style_ru": "чаби",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "чаби персонаж с ушами",
+        "рыжий котенок в руках",
+        "сердце ожерелье"
+      ]
+    },
+    {
+      "item_id": "nyu_688d680b4d2fea00574878e4",
+      "image_sha256": "7820eb7409015301bf8c2c2bc854b569463240dffb876b0146b87413ea743c4f",
+      "caption_en": "A child drinking from a sippy cup.",
+      "caption_ru": "Дети пьют из сippy-бутылки.",
+      "emotion_ru": "неясно",
+      "style_ru": "реалистичный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "ребенок пьет",
+        "сippy-бутылка",
+        "детский напиток"
+      ]
+    },
+    {
+      "item_id": "nyu_07dadb4c82fe8b30ced37bc6",
+      "image_sha256": "96a9b320aa1b7145126676d4bb5cc5e76ce50d12ed678fde8ccd9c5bce308c0b",
+      "caption_en": "A cartoon chick with a stitched eye and bloodstains.",
+      "caption_ru": "Картинка птенца сшитым глазом и кровью.",
+      "emotion_ru": "страшно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "птенец сшитый глаз",
+        "кровавый птенец",
+        "страшный птенец"
+      ]
+    },
+    {
+      "item_id": "nyu_5944500ea464b062ce659e92",
+      "image_sha256": "4ff0d668a883042e9588211f9548eba30a0af5d06c17182efd9b75e5c07acab6",
+      "caption_en": "A white animated rabbit holding a carrot with a surprised expression.",
+      "caption_ru": "Белый анимированный кролик держит морковь с удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "анимация",
+      "ocr_text": "OUV MAY GÖT",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "удивленный кролик",
+        "анимационный кролик",
+        "морковка в руках"
+      ]
+    },
+    {
+      "item_id": "nyu_fa419a71e5486de4a0d64618",
+      "image_sha256": "d5c7b7e202577fce4304ff797ee067ef1966fc6d3ce5d4bee55b3630eb639f2c",
+      "caption_en": "Close-up of a person wearing a brown jacket and white shirt, looking off to the side.",
+      "caption_ru": "Близкий план человека в коричневой куртке и белой футболке, смотрящего в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "мужчина в коричневой куртке",
+        "портрет в коричневом",
+        "лицо в коричневом"
+      ]
+    },
+    {
+      "item_id": "nyu_4b6d151d16a9e7250ff456d2",
+      "image_sha256": "5a7e15bd75ce5951be7b3185407ee8dc40bc66cb8128d32b12d07b7407f68ee3",
+      "caption_en": "A yellow cartoon face with wide eyes and an open mouth, appearing surprised.",
+      "caption_ru": "Желтая мультяшная голова с широко открытыми глазами и открытой пастью, выглядящая удивленно.",
+      "emotion_ru": "удивление",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "удивленное лицо",
+        "желтый мультяшный персонаж",
+        "удивленный смайлик"
+      ]
+    },
+    {
+      "item_id": "nyu_33ea6b549ac4f3daf03e047e",
+      "image_sha256": "c663f08cb87644e8eabd45518800b58919652102561bc954445e74a039636813",
+      "caption_en": "The word 'babi' with a red heart next to it.",
+      "caption_ru": "Слово \"баби\" с красным сердцем рядом.",
+      "emotion_ru": "любовь",
+      "style_ru": "ручная надпись",
+      "ocr_text": "babi",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "сердце с надписью",
+        "любовное сообщение",
+        "надпись с сердцем"
+      ]
+    },
+    {
+      "item_id": "nyu_d3bc468376fb1e1823e98e4d",
+      "image_sha256": "aab45e0095ccf788e217441271833a53294ebfb0e42c573f6edbe9d03f1adde0",
+      "caption_en": "A chibi-style character in a green sweater and plaid skirt, striking a dynamic pose.",
+      "caption_ru": "Карикатурный персонаж в зеленой водолазке и клетчатой юбке, стоящий в динамичной позе.",
+      "emotion_ru": "неясно",
+      "style_ru": "чаби",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "чаби-персонаж",
+        "динамичная поза",
+        "зеленая водолазка"
+      ]
+    },
+    {
+      "item_id": "nyu_a32cf70421bf0aeed1fdad27",
+      "image_sha256": "ef1c11f7e7d9fedb1fa6ab0d4be5e9318b02edfb6e25a039daba7d11b7044f85",
+      "caption_en": "A blonde-haired anime character in a school uniform resting their head on one hand.",
+      "caption_ru": "Аниме-персонаж с блондинкой в школьной форме, опирающийся на руку.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж",
+        "школьная форма",
+        "рука под головой"
+      ]
+    },
+    {
+      "item_id": "nyu_9c1e8bbd0809d33b19d53430",
+      "image_sha256": "fd3369fbe28d64c2078b06fec174ff0e1ac7ae4a3441f3e651902aa8748a973f",
+      "caption_en": "A simple cartoon face with closed eyes and a small pink mouth.",
+      "caption_ru": "Простой мультяшный портрет лица с закрытыми глазами и маленьким розовым ртом.",
+      "emotion_ru": "спокойствие",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "спокойное лицо",
+        "закрытые глаза",
+        "розовый рот"
+      ]
+    },
+    {
+      "item_id": "nyu_259343f146b8614bac63e04a",
+      "image_sha256": "2b0bb24602be40f7702ec8d59a5436060c60044b30b2981035a77147d9c0c514",
+      "caption_en": "A purple onion with a face in a corner, asking for help.",
+      "caption_ru": "Карикатура лука с лицом в углу, просит помощи.",
+      "emotion_ru": "просительный",
+      "style_ru": "комикс",
+      "ocr_text": "ПОМОГИ МНЕ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "лук в углу",
+        "просить помощи",
+        "комикс с луком"
+      ]
+    },
+    {
+      "item_id": "nyu_175986686a387da607619e5e",
+      "image_sha256": "c85d178ed17cc457eb30b0de8f2c37871bbb165e98b8eeeac5818f7a30ea24f1",
+      "caption_en": "A green frog-like character with a confused expression.",
+      "caption_ru": "Зеленая лягушка с выражением недоумения.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "зеленая лягушка",
+        "的表情困惑",
+        "анимационный персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_f17d557935103157ed316ab0",
+      "image_sha256": "c6fe762c98fd03a71660111c570b7e4719bfc9dd49fd5d7f6f18578af7b9933f",
+      "caption_en": "A person wearing sunglasses and a blue shirt with the word 'HAY!!!' in bold pink letters.",
+      "caption_ru": "Люди в солнцезащитных очках и синей рубашке с надписью 'HAY!!!' в ярко-розовых цветах.",
+      "emotion_ru": "неясно",
+      "style_ru": "стикер с надписью",
+      "ocr_text": "HAY!!!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "глаза в солнцезащитных очках",
+        "синяя рубашка",
+        "надпись HAY!!!"
+      ]
+    },
+    {
+      "item_id": "nyu_a00edbe183bbf270e6942a87",
+      "image_sha256": "4e42f4bcc0464780a9a68c765b67933e48955dcfa3372f0e5ef7fdc6dd5b3851",
+      "caption_en": "A cartoon character holding money and wearing a uniform with stars, surrounded by dollar bills and Bitcoin symbols.",
+      "caption_ru": "Карикатура человека в форме с звездами, держащего деньги, окруженного банкнотами и символами Bitcoin.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация, мультфильм",
+      "ocr_text": "Bitcoin\nLCOINS",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "монеты Bitcoin",
+        "человек с деньгами",
+        "анимационный персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_961839b2fdfc343fbc74d34b",
+      "image_sha256": "0d5d23a90632382254d6e9563af3e4deaac6815d85acd8c556701c5f93abd5d3",
+      "caption_en": "A cartoon woman with braided hair resting her chin on her hand.",
+      "caption_ru": "Картинка женщины в стиле комиксов с косичками, опирающейся на руку под подбородком.",
+      "emotion_ru": "неясно",
+      "style_ru": "комикс",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "женщина в косичках",
+        "комикс персонаж",
+        "рука под подбородком"
+      ]
+    },
+    {
+      "item_id": "nyu_6d7bfac22e6a889428194734",
+      "image_sha256": "36596c13c1cbac702c4ab676124637f2a61012028d17d6d87b7119558a98b5dd",
+      "caption_en": "A cartoon woman with a pained expression, holding her stomach and head.",
+      "caption_ru": "Карикатура женщины с больным выражением лица, держащей живот и голову.",
+      "emotion_ru": "боль",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "боль в животе",
+        "женщина с болью",
+        "карикатура боли"
+      ]
+    },
+    {
+      "item_id": "nyu_9aada49bc640ee84ecc45045",
+      "image_sha256": "78ed998a59948638ab8eb0669204ce1cbd99ec3281e5b9c0bbee0fcea72f2bf6",
+      "caption_en": "Man in a light blue shirt and tie leaning forward.",
+      "caption_ru": "Мужчина в светло-голубой рубашке и галстуке, опирающийся на стол.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "мужчина в рубашке",
+        "портрет мужчины",
+        "лицо человека"
+      ]
+    },
+    {
+      "item_id": "nyu_f4abd9e4bb5a365cbd5538ac",
+      "image_sha256": "87ef5f9e467db22a0d6eef09b2f9fcdc3b1505b5407c9c41faf76f7c90f98209",
+      "caption_en": "A sketch of a person wearing a cloak and a detailed outfit.",
+      "caption_ru": "Рисунок человека в плаще и детализированной одежде.",
+      "emotion_ru": "неясно",
+      "style_ru": "черно-белый рисунок",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "черно-белый рисунок персонажа",
+        "детализированный наряд",
+        "человек в плаще"
+      ]
+    },
+    {
+      "item_id": "nyu_429e23e8704e647120f77fbe",
+      "image_sha256": "b452ea91c5b49a85a59144492e810ede7c02d57bb463589ff95657aa07d86267",
+      "caption_en": "A cute anime-style character with white hair and blue eyes, wearing a pink and white dress, pointing forward.",
+      "caption_ru": "Комикс-персонаж с белыми волосами и голубыми глазами, одетый в розово-белое платье, указывающий вперед.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "кавайный персонаж",
+        "аниме-стиль",
+        "指点するキャラクター"
+      ]
+    },
+    {
+      "item_id": "nyu_3803a235604a8d94e7748ba2",
+      "image_sha256": "c53c8bc7eb5f2c7a47890fef0fa34a7947d2e26fcd73c84db7069e20714c38c2",
+      "caption_en": "A cartoon character breaking through a wall with a shocked expression.",
+      "caption_ru": "Карикатура персонажа, разрушающего стену с шокированным выражением лица.",
+      "emotion_ru": "шокировано",
+      "style_ru": "аниме",
+      "ocr_text": "DIGE",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимационный персонаж",
+        "разрушение стены",
+        "шокированный персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_df7259fb7be1c26c0748ff5e",
+      "image_sha256": "7e1002c3eb366aa018f17926e3817ce40599776f1c77595b044adfd9f80fb61d",
+      "caption_en": "A person wearing a black shirt with a Balenciaga logo and a microphone attached to their shirt.",
+      "caption_ru": "Люди в черной футболке с логотипом Balenciaga и микрофоном на шее.",
+      "emotion_ru": "неясно",
+      "style_ru": "формальный",
+      "ocr_text": "Balenciaga",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "баленсиага на футболке",
+        "микрофон на шее",
+        "черная футболка"
+      ]
+    },
+    {
+      "item_id": "nyu_0bf7e755347453a1652ba779",
+      "image_sha256": "7a8ed4edd035e869bc84f475c61242a2645ff89e9f45028f58d200158f61d39f",
+      "caption_en": "A happy anime girl holding a burger with hearts and 'いただきます!' text.",
+      "caption_ru": "Счастливая аниме-девочка держит гамбургер с сердечками и текстом 'いただきます!'.",
+      "emotion_ru": "радость",
+      "style_ru": "аниме",
+      "ocr_text": "いただきます!",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "аниме девочка ест гамбургер",
+        "японская аниме девушка",
+        "счастливая аниме девушка"
+      ]
+    },
+    {
+      "item_id": "nyu_7c88206b90b9a59341f01d41",
+      "image_sha256": "4b4b5ce8c54cf3952838613c70e6d89afc83c682b4260f0015923ff2273cc5f6",
+      "caption_en": "A green-haired character holding a laptop with a rising graph on the screen.",
+      "caption_ru": "Персонаж с зелеными волосами держит ноутбук с растущей графикой на экране.",
+      "emotion_ru": "радостное",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "зеленые волосы",
+        "рост графика",
+        "аниме персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_00618bca058b17c2020abd04",
+      "image_sha256": "7007873ba553fbe28e3e3b6ed8c6099e8baee8a82d188ee400b544a775128686",
+      "caption_en": "A blue fluffy bird wearing sunglasses holds a pink ice cream cone on a sandy beach.",
+      "caption_ru": "Синяя пушистая птица в солнцезащитных очках держит мороженое на пляже.",
+      "emotion_ru": "веселое",
+      "style_ru": "анимационный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "птица с мороженым",
+        "лето на пляже",
+        "солнечный день"
+      ]
+    },
+    {
+      "item_id": "nyu_0318160db934b5ddcd05e5ae",
+      "image_sha256": "bf913879a159fee803a6397c8c8ff4f6ea835484d70f7d7fe9accb6a91cd58a7",
+      "caption_en": "A young girl with dark hair and bangs wearing a white shirt and red apron.",
+      "caption_ru": "Молодая девушка с черными волосами и челкой в белой рубашке и красной фартуке.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "DIGE",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешная девочка",
+        "красный фартук",
+        "девочка в белой рубашке"
+      ]
+    },
+    {
+      "item_id": "nyu_d40f74f99a448f71fa2c71e5",
+      "image_sha256": "3568067d00871e7e7002d61d734d9c6a003c2cd61ad21d2a94e25abe48075cc7",
+      "caption_en": "A stick figure with a sad expression and crossed arms, saying 'I'm Through With You!'.",
+      "caption_ru": "Точечный человек с печальным выражением лица и скрещенными руками, говорящий 'Я больше не с тобой!'.",
+      "emotion_ru": "печально",
+      "style_ru": "точечный стиль",
+      "ocr_text": "I'm Through With You!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "разрыв отношений",
+        "недовольство",
+        "отказаться"
+      ]
+    },
+    {
+      "item_id": "sq_1833563040931381730",
+      "image_sha256": "faeb279da556f0824facdd170145ef0339eda972238b1afd47f1dddc64efed3c",
+      "caption_en": "A cute cartoon cat with closed eyes and a paw near its face.",
+      "caption_ru": "Милая мультяшная кошка с закрытыми глазами и лапкой у лица.",
+      "emotion_ru": "спокойствие",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "милый котик",
+        "спокойный кот",
+        "мультяшный кот"
+      ]
+    },
+    {
+      "item_id": "nyu_c02b72dc1bf1b255f32540ee",
+      "image_sha256": "86b6e8bf2299cdca88ec3b35f4092cffd7cdc05b6f4c19843ce714850e03863d",
+      "caption_en": "A person wearing a beanie looks out a window at another person smoking.",
+      "caption_ru": "Человек в шапке смотрит через окно на другого человека, дымящего.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "окно, люди, дым",
+        "шапка, дым",
+        "вечер, окно"
+      ]
+    },
+    {
+      "item_id": "nyu_44eb0cc2ac081105079db919",
+      "image_sha256": "b835d1b34cb98aeedd4d585578207ce62bf50e2c2457de135729c99759de6a5f",
+      "caption_en": "A smiling person wearing a dark hoodie with a zipper.",
+      "caption_ru": "Улыбающийся человек в темной худи с молнией.",
+      "emotion_ru": "счастливый",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "улыбка человека",
+        "темная худи",
+        "счастливое лицо"
+      ]
+    },
+    {
+      "item_id": "nyu_e791268de705eb734bec5750",
+      "image_sha256": "1883e56cb059a4e5bcd79b553236d9c2f57f5382889c4906bccb877f834237cf",
+      "caption_en": "A cartoon cat with a mischievous expression and clenched fist.",
+      "caption_ru": "Карикатурный кот с подозрительным выражением лица и сжатым кулаком.",
+      "emotion_ru": "подозрительно",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "кот с подозрительным выражением",
+        "кот с сжатым кулаком",
+        "кот в анимационном стиле"
+      ]
+    },
+    {
+      "item_id": "nyu_e23edc6049e0ca76d2d51203",
+      "image_sha256": "cd4010feca8e93ed79b1eeefba749252b8e4a42cab59ab1bd306e9f13bb117ea",
+      "caption_en": "Person holding a drink with a straw and a brick wall background.",
+      "caption_ru": "Люди держат напиток с трубочкой и фоном из кирпичной стены.",
+      "emotion_ru": "неясно",
+      "style_ru": "современный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "человек с напитком",
+        "кирпичная стена",
+        "девушка с напитком"
+      ]
+    },
+    {
+      "item_id": "nyu_463f4926dd3ec952a76516c6",
+      "image_sha256": "169509eacc13532ae87735ce45ec4d50fac8b5a68dbf86f6267c595214d14306",
+      "caption_en": "A smiling person with black hair and suspenders, surrounded by 'ARA' and 'SARA' text.",
+      "caption_ru": "Люди с черными волосами и подтяжками, улыбающиеся, окруженные текстом 'ARA' и 'SARA'.",
+      "emotion_ru": "счастливый",
+      "style_ru": "черно-белая комикс",
+      "ocr_text": "ARA SARA",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "человек с подтяжками",
+        "смайлик с подтяжками",
+        "смайлик с надписью ARA SARA"
+      ]
+    },
+    {
+      "item_id": "nyu_96aecceb335e90d251c63a6c",
+      "image_sha256": "0792763090dca3c7dfa889045757e39e0374927740fbdf2f39c1a82d9703f86a",
+      "caption_en": "A person wearing a black cap and scarf, waving.",
+      "caption_ru": "Люди в черной кепке и шарфе, машущие рукой.",
+      "emotion_ru": "неясно",
+      "style_ru": "повседневный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "человек машет рукой",
+        "мужчина в кепке",
+        "шарф и кепка"
+      ]
+    },
+    {
+      "item_id": "nyu_c33a9b6b3044e7cabc9e56de",
+      "image_sha256": "9cc4e00a0a89acbfedcae7dba6b1d9af7b8f95a8b84ed384239585af70f59316",
+      "caption_en": "A cute dog and cat hugging each other.",
+      "caption_ru": "Милое животное с собакой и кошкой, обнимающиеся друг друга.",
+      "emotion_ru": "радость",
+      "style_ru": "иллюстрация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "дружба животных",
+        "обнимашки",
+        "милые животные"
+      ]
+    },
+    {
+      "item_id": "sq_6334772832534266436",
+      "image_sha256": "6f05d7d04343bd75c33d1e77fe79f90b6ef06834f472d6d200b0ba8cc6b68f04",
+      "caption_en": "A cat wearing sunglasses and giving a thumbs-up.",
+      "caption_ru": "Кот в солнцезащитных очках и показывает палец вверх.",
+      "emotion_ru": "радостный",
+      "style_ru": "мем",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "кот в солнцезащитных очках",
+        "кот с пальцем вверх",
+        "мем с котом"
+      ]
+    },
+    {
+      "item_id": "nyu_398cbf00ceb922064c866e58",
+      "image_sha256": "2bd87626a264336113ee0f74a29adeca2698f79ed30eaf3c505514f9d5c8045f",
+      "caption_en": "A person with long hair wearing a white and red checkered top, smiling.",
+      "caption_ru": "Люди с длинными волосами в бело-красной клетчатой блузке, улыбающиеся.",
+      "emotion_ru": "счастливое",
+      "style_ru": "повседневный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "лицо улыбается",
+        "длинные волосы",
+        "белая и красная клетка"
+      ]
+    },
+    {
+      "item_id": "nyu_a74e1477b930f71ccdb56b43",
+      "image_sha256": "0333f14d6a4f9ea46c6bb28770af7db587741b9faebdf93f9b3a9feaad4107fe",
+      "caption_en": "A cartoon character with a cold, holding a thermometer and ice pack on their head.",
+      "caption_ru": "Карикатура персонажа с простудой, держащего термометр и лед на голове.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "персонаж с простудой",
+        "человек с термометром",
+        "лед на голове"
+      ]
+    },
+    {
+      "item_id": "nyu_42b7c85c1b391b032cc57c21",
+      "image_sha256": "1ec455701d38b0e99e9f31ef04edc9e239fc5485951a80873838ac6b5094890a",
+      "caption_en": "A cute white cat wearing sunglasses and a red collar with flowers, sitting on a red chair.",
+      "caption_ru": "Милая белая кошка в солнцезащитных очках и красном ошейнике с цветочками, сидящая на красном стуле.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "милый кот в очках",
+        "кошка в солнцезащитных очках",
+        "красный стул с кошкой"
+      ]
+    },
+    {
+      "item_id": "nyu_1bb87f2cbc927abf9f980951",
+      "image_sha256": "e4c368ad7b00f287d585bfcbd41d69832d1fce1074eb31251b24931effea100f",
+      "caption_en": "Close-up of a surprised-looking cat with wide eyes and slightly open mouth.",
+      "caption_ru": "Близкий план удивленного кота с широко раскрытыми глазами и слегка открытой пастью.",
+      "emotion_ru": "удивление",
+      "style_ru": "черно-белое фото",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "удивленный кот",
+        "кот с широко открытыми глазами",
+        "прикольные коты"
+      ]
+    },
+    {
+      "item_id": "nyu_c35834a2dff67e69e9cd59e2",
+      "image_sha256": "9f61c773a743a34fb01eb9df623a8cf71a9b0b3e17cb1721e4c446d065b81e32",
+      "caption_en": "A baby is crying with the word 'ungaa' repeated below.",
+      "caption_ru": "Младенец плачет, под ним повторяется слово 'ungaa'.",
+      "emotion_ru": "грусть",
+      "style_ru": "реалистичный",
+      "ocr_text": "ungaa.. ungaa..ungaa",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "плачущий младенец",
+        "слезы ребенка",
+        "реклама детских товаров"
+      ]
+    },
+    {
+      "item_id": "nyu_bbdc4d91d952ab29c4791062",
+      "image_sha256": "33684620d10ece6da328f877e32b5388d338637fef5d47ba720ab3ace6f323da",
+      "caption_en": "A cartoon character in a green jacket and hat with a red star, raising fists in excitement.",
+      "caption_ru": "Карикатура человека в зеленой куртке и шляпе с красной звездой, поднимая кулаки в возбуждении.",
+      "emotion_ru": "радость",
+      "style_ru": "комикс",
+      "ocr_text": "Day R",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "возбужденный персонаж",
+        "радостный смайлик",
+        "эмоциональный рисунок"
+      ]
+    },
+    {
+      "item_id": "nyu_739a82cb0abf5c47561b6743",
+      "image_sha256": "a050480babdc96dc1530bdf8bdd14301b9e565f856ab672dac1e408867716aec",
+      "caption_en": "A blonde-haired character with a shocked expression and a long tongue sticking out.",
+      "caption_ru": "Блондинка с шокированным выражением лица и высовывающейся языком.",
+      "emotion_ru": "шок",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "аниме персонаж шок",
+        "высунувший язык персонаж",
+        "шокированный аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_ac231eca60eac0ac71c0c188",
+      "image_sha256": "b4d1acaa7d245fde40c4af3e7089d7083d5ba087de25e38c6ad77544a12ae887",
+      "caption_en": "A cartoon mouse dancing with one arm raised and a mischievous expression.",
+      "caption_ru": "Картунная мышь танцует с одной рукой вверх и злобным выражением лица.",
+      "emotion_ru": "злобное",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "танцующая мышь",
+        "злобная мышка",
+        "анимация мыши"
+      ]
+    },
+    {
+      "item_id": "nyu_d76b94b48d3ea27179d1fba2",
+      "image_sha256": "3772b527ebd1746f4cef54c7479ef1225031c6d8dfe3ecb5a2e4cea6f8390e69",
+      "caption_en": "A sticker with a profile picture and text in Russian.",
+      "caption_ru": "Стикеры с профильным фото и текстом на русском.",
+      "emotion_ru": "неясно",
+      "style_ru": "простой текстовый стикер",
+      "ocr_text": "Михайло\nВот так и умирает правый фронт СНГ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "стикер с профилем Михайло",
+        "текст на русском в стикере",
+        "СНГ в стикере"
+      ]
+    },
+    {
+      "item_id": "nyu_34f88b3fdcc99d0d6571e4f3",
+      "image_sha256": "56768e2f188f6fd5d621262ee72a4e4beb0fd259e6b2fced37001a9a5409ad0e",
+      "caption_en": "Offline message from Ran expressing separation and confidence.",
+      "caption_ru": "Сообщение от Рана, сообщающее о разрыве и уверенности.",
+      "emotion_ru": "неясно",
+      "style_ru": "текстовое сообщение",
+      "ocr_text": "Ran [ OFFLINE ]\nKita berpisah untuk sesuatu yang lebih baik. Mungkin, agak menggelikan hidup tanpamu. Tapi, aku yakin aku mampu.",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "сообщение от Рана",
+        "разрыв с Ран",
+        "текстовое сообщение"
+      ]
+    },
+    {
+      "item_id": "nyu_89a566924be0f2042cfdf6cd",
+      "image_sha256": "386020070a996c84830328743ce3ee97be82230672da6a5d8f1325d565f10b0b",
+      "caption_en": "A purple character with a large afro and a sad expression.",
+      "caption_ru": "Фиолетовый персонаж с большим афро и печальным выражением лица.",
+      "emotion_ru": "печально",
+      "style_ru": "анимационный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "фиолетовый персонаж",
+        "печальный персонаж",
+        "анимация"
+      ]
+    },
+    {
+      "item_id": "nyu_b36f23ab00988429ff3a9adc",
+      "image_sha256": "773a69a22275934e6ff6e6f0ac7f341764ab609bfe94c40ba15c070969d2b9b8",
+      "caption_en": "Close-up of a character with large eyes and pink hair.",
+      "caption_ru": "Близкий план персонажа с большими глазами и розовыми волосами.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж",
+        "розовые волосы",
+        "большие глаза"
+      ]
+    },
+    {
+      "item_id": "nyu_25bee772b766856b347d6c88",
+      "image_sha256": "1bb679d7a5707ca04697af280ab561bfe88f0d7c286e4038c0e6671dcffb19d1",
+      "caption_en": "A person in a light blue shirt holding a pink rose.",
+      "caption_ru": "Люди в голубой рубашке держат розу.",
+      "emotion_ru": "неясно",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "человек с розой",
+        "голубая рубашка",
+        "цветок"
+      ]
+    },
+    {
+      "item_id": "nyu_934f53e78d9973c0eb083b01",
+      "image_sha256": "162979ff40007cabf7710ea68c6fd3d262d90437daaca749c35955a23c586a90",
+      "caption_en": "A chibi character with red eyes and mechanical horns on their head.",
+      "caption_ru": "Комиксовый персонаж с красными глазами и механическими рогами на голове.",
+      "emotion_ru": "неясно",
+      "style_ru": "комикс",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "механические рога",
+        "красные глаза",
+        "чibi персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_3f48d7246777780d25525f77",
+      "image_sha256": "ce7c9d77dd6a3e787066ea8bff2d703bbbf3f460def316b2da51a601c3ed5e9a",
+      "caption_en": "A simple, fluffy creature with two ears and a small smile.",
+      "caption_ru": "Простой пушистый персонаж с двумя ушами и маленьким улыбкой.",
+      "emotion_ru": "счастливый",
+      "style_ru": "простой рисунок",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "пушистый персонаж",
+        "милый персонаж",
+        "счастливый персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_26f1b6a69846f90d07f0a78c",
+      "image_sha256": "74f630390bb95bf7b5fd1f3a46416ea391bd55c78bbd16b0303639d761eb66c2",
+      "caption_en": "Cartoon woman in yellow dress with text 'can't touch this' above her.",
+      "caption_ru": "Карикатура женщины в желтом платье с надписью 'can't touch this' над ней.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "can't\ntouch\nthis",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "карикатура женщина платье",
+        "надпись can't touch this",
+        "желтое платье"
+      ]
+    },
+    {
+      "item_id": "sq_5379585312928304150",
+      "image_sha256": "44b4fe952c8b34d2b9ac5c85ead2fbf3b9d1b23971880c37db5fc77337ade988",
+      "caption_en": "A blue cartoon character wearing overalls opens a door.",
+      "caption_ru": "Картунный синий персонаж в комбинезоне открывает дверь.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "синий персонаж открывает дверь",
+        "анимационный персонаж",
+        "дверь открытая"
+      ]
+    },
+    {
+      "item_id": "nyu_2bf42fb61c64ad762221d5cb",
+      "image_sha256": "f8e3c0fbd62a522ef04230255fe4d9eef1be72c3fef4ae51ac74a1cb0c01f36d",
+      "caption_en": "Close-up of a baby with blue eyes and a slightly furrowed brow.",
+      "caption_ru": "Близкий план лица ребенка с голубыми глазами и слегка скосившимся бровью.",
+      "emotion_ru": "недовольство",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "ребенок с голубыми глазами",
+        "ребенок с недовольным выражением",
+        "портрет младенца"
+      ]
+    },
+    {
+      "item_id": "nyu_23088eb2d10c5618cf9ce98b",
+      "image_sha256": "2c32235410ea887ceed3ea2b087be612db9eb21de2c3990ed3e674e584b81935",
+      "caption_en": "A young girl with red hair and a yellow hoodie, looking slightly to the side.",
+      "caption_ru": "Молодая девочка с рыжими волосами и желтым худи, смотрящая в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешная девочка",
+        "красивые волосы",
+        "желтая кофта"
+      ]
+    },
+    {
+      "item_id": "nyu_05c1bd18a1e7e7c72a5a6e67",
+      "image_sha256": "1c3faf3061de926a96abc3ee411a3fe80606f78d424c127db401607351bfdb3c",
+      "caption_en": "A manga-style character with spiky hair and a surprised expression.",
+      "caption_ru": "Манга-персонаж с шрамом и удивленным выражением лица.",
+      "emotion_ru": "удивлен",
+      "style_ru": "манга",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "манга персонаж удивлен",
+        "шрам на лице",
+        "спиккая прическа"
+      ]
+    },
+    {
+      "item_id": "nyu_482ade3f6088f2510e0e2271",
+      "image_sha256": "c6485b88e5638d0a77432c91973e267168aa90b8e86fe0be7de8acb636a7e845",
+      "caption_en": "A cute chibi character with long blonde hair and a hat, holding a small animal.",
+      "caption_ru": "Милая чиби-персонаж с длинными светлыми волосами и шляпкой, держащий маленького животного.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме-стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "чебурашка с животным",
+        "милый персонаж",
+        "аниме-стиль"
+      ]
+    },
+    {
+      "item_id": "nyu_aeb950829a3a65ef8901fe69",
+      "image_sha256": "4198d68faf3bf790eb7645a2cdc4e1da2c6578bdd99185ceb16d8ca0905d492e",
+      "caption_en": "A person sitting outdoors, leaning on a stroller, smiling.",
+      "caption_ru": "Люди сидят на улице, опираясь на коляску, улыбаются.",
+      "emotion_ru": "счастливое",
+      "style_ru": "портретный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "улыбка на улице",
+        "сидит на улице",
+        "коляска"
+      ]
+    },
+    {
+      "item_id": "nyu_39a3177d44868fff582d3bba",
+      "image_sha256": "b790bc7d7296f2abdaa0a8641d23959a7ab5921e7952a22ce66b438a87fea925",
+      "caption_en": "A person with colorful hair and makeup holding a drink.",
+      "caption_ru": "Люди с яркими волосами и макияжем держат напиток.",
+      "emotion_ru": "неясно",
+      "style_ru": "стилизованный портрет",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "яркий макияж",
+        "цветные волосы",
+        "напиток в руках"
+      ]
+    },
+    {
+      "item_id": "nyu_1e64a444c617ea6fee354be8",
+      "image_sha256": "b144676b6991786c528cc5d1e84bdc7e9ff31a129122fa7362ab9a4a9c9d623b",
+      "caption_en": "Excited anime character with arms raised and 'WOW' text above.",
+      "caption_ru": "Аниме-персонаж с поднятыми руками и надписью 'WOW' сверху.",
+      "emotion_ru": "удивленный",
+      "style_ru": "аниме",
+      "ocr_text": "WOW",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "анимешный персонаж с 'WOW'",
+        "удивленный аниме персонаж",
+        "анимешная реакция 'WOW'"
+      ]
+    },
+    {
+      "item_id": "nyu_d1b8fb8f3724d87d5578a0e7",
+      "image_sha256": "11a1c316fb57ad82981126d4cd3f757630462e0f88c90b0fc170d5acd3f6002e",
+      "caption_en": "Cartoon girl with blonde hair, wearing a blue top and orange scarf, holding her hair with both hands.",
+      "caption_ru": "Картинка девочки с блондинкой, в голубом топе и оранжевом шарфе, держащей волосы обеими руками.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "девочка с волосами",
+        "анимационная девушка",
+        "блондинка в топе"
+      ]
+    },
+    {
+      "item_id": "nyu_420fae651b6e5961a93fb9f5",
+      "image_sha256": "48f2f969e82cefe9011944a83ccc17577a18c61d69fe658ca7057b0689b0cf74",
+      "caption_en": "A close-up of a character with dark hair and blue eyes, looking thoughtful.",
+      "caption_ru": "Близкий план персонажа с темными волосами и голубыми глазами, смотрящего в сторону.",
+      "emotion_ru": "мышленный",
+      "style_ru": "анимэ",
+      "ocr_text": "HR",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "думающий персонаж",
+        "синие глаза",
+        "темные волосы"
+      ]
+    },
+    {
+      "item_id": "nyu_83a1b6a057ecedee97db8e74",
+      "image_sha256": "1ffa57fde271575374d38835ce149eec644fdda6ff7e0f5b771163c1599e66f6",
+      "caption_en": "A character holding a guitar with a sticker that appears to be a piece of paper with writing on it.",
+      "caption_ru": "Персонаж держит гитару с наклейкой в виде листа бумаги с надписью на нем.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "ноты на гитаре",
+        "музыкальная наклейка",
+        "персонаж с гитарой"
+      ]
+    },
+    {
+      "item_id": "nyu_ec0cbcd4b2dc9e91e264b270",
+      "image_sha256": "0aba11ddc0bb7ca0c613a9c493999eaf5fc733ed50e262865365edff97378fd3",
+      "caption_en": "A cartoon girl with glasses and long hair, smiling with sparkles around her.",
+      "caption_ru": "Картинка девочки в очках с длинными волосами, улыбающейся с блестками вокруг нее.",
+      "emotion_ru": "радость",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "счастливая девочка",
+        "анимешная девушка",
+        "светлячки"
+      ]
+    },
+    {
+      "item_id": "nyu_e8a0f059c820d0d174158716",
+      "image_sha256": "bbf1147e22200fbfae1357d8e4c2c100aa8f0393a288a33798d9f5b5c066315a",
+      "caption_en": "A person wearing a light-colored jacket and a necklace with a small pendant.",
+      "caption_ru": "Люди в светлой куртке и ожерелье с маленьким подвеской.",
+      "emotion_ru": "неясно",
+      "style_ru": "снимок портрета",
+      "ocr_text": "!",
+      "ocr_language": "en",
+      "usage_queries_ru": [
+        "портрет человека",
+        "светлая куртка",
+        "ожерелье с подвеской"
+      ]
+    },
+    {
+      "item_id": "nyu_6215147310132efd004dac2e",
+      "image_sha256": "903a999661a20a80b33bad69f6f089b13411113556848a583641002624e1afe8",
+      "caption_en": "A person wearing a red shirt with a street sign above them.",
+      "caption_ru": "Человек в красной футболке с дорожным знаком над головой.",
+      "emotion_ru": "неясно",
+      "style_ru": "реалистичный",
+      "ocr_text": "ВЕСЕЛАЯ ЖИЗНЬ",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "человек в красной футболке",
+        "дорожный знак над головой",
+        "веселая жизнь"
+      ]
+    },
+    {
+      "item_id": "nyu_7ea64173794eecf8c76713c9",
+      "image_sha256": "5ab4ca44ff6d32ec251c91053ebc0d8b2b8d323c7629e0307971a683790326b1",
+      "caption_en": "A golden accordion sticker with Cyrillic text below.",
+      "caption_ru": "Золотая гармошка с надписью на русском ниже.",
+      "emotion_ru": "неясно",
+      "style_ru": "графический дизайн",
+      "ocr_text": "ТРИЖДЫ БОЯН НИЖНЕГО ЮМORA",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "гармошка с надписью",
+        "золотая гармошка",
+        "русская надпись"
+      ]
+    },
+    {
+      "item_id": "nyu_ba375a9a4546d4d6859d1138",
+      "image_sha256": "40ed20bf8072ecb732b99c21ba8852d4a82e1da5f0d24971d64335ea4e2b49a2",
+      "caption_en": "Person in a black and red outfit with a thought bubble containing text.",
+      "caption_ru": "Люди в черно-красной одежде с мыслящей пузырькой.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимешен",
+      "ocr_text": "T.ME/STIKERFORALL\n@STIKERFORALL\nDIGE44",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "черно-красная одежда",
+        "мыслящая пузырька",
+        "анимешен стиль"
+      ]
+    },
+    {
+      "item_id": "nyu_a46f78add821649ca5307f10",
+      "image_sha256": "769db9ba30533836d535d95ca97c6d0b475f64303c85944e9a306bd8e7f7c477",
+      "caption_en": "Close-up of a sleeping cat with closed eyes and fur details.",
+      "caption_ru": "Близкий вид спящего кота с закрытыми глазами и деталями шерсти.",
+      "emotion_ru": "спокойствие",
+      "style_ru": "реалистичный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "спящий кот",
+        "детали шерсти",
+        "близкий вид"
+      ]
+    },
+    {
+      "item_id": "nyu_4afb49143a26d624ab881f79",
+      "image_sha256": "6d7fb08c6e4bacf6985df8dc514afbcf4bb798196a06c330d47b820b3e1e491a",
+      "caption_en": "Handwritten-style text 'Aku Safe ya' on a white background.",
+      "caption_ru": "Ручной шрифт текста 'Aku Safe ya' на белом фоне.",
+      "emotion_ru": "неясно",
+      "style_ru": "ручной шрифт",
+      "ocr_text": "Aku Safe ya",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "ручной шрифт",
+        "буквы на белом",
+        "текст 'Aku Safe ya'"
+      ]
+    },
+    {
+      "item_id": "nyu_ddd7fbc8521dac17f128e2cf",
+      "image_sha256": "fe6567d4ae3fe6f1e6b57db5077d1907cd33b5813ba41aae75c40e9f69ea667d",
+      "caption_en": "A person holding a bowling ball with a surprised expression.",
+      "caption_ru": "Люди держат боуллинг с удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "фотография",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "удивленный человек",
+        "боуллинг",
+        "изумление"
+      ]
+    },
+    {
+      "item_id": "nyu_0ac53587aac30abd864489ed",
+      "image_sha256": "0af4c981c92a9980631a8ec38953da76850c5b0b7e44566375c36da2e3e4e21f",
+      "caption_en": "A slice of bread with a sad face.",
+      "caption_ru": "Кусок хлеба с печальным лицом.",
+      "emotion_ru": "печально",
+      "style_ru": "анимированный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "печальный хлеб",
+        "смайлик хлеб",
+        "的表情包"
+      ]
+    },
+    {
+      "item_id": "nyu_ee8d8435cac0cc882fbd4e3c",
+      "image_sha256": "3133fbd96d57acd1d11a29c210153b56a58822958a4a164c36200fa26cbd67ff",
+      "caption_en": "A cartoon character wearing a hat looks confused.",
+      "caption_ru": "Картинка с мультяшным персонажем в шляпе, который выглядит удивленно или запутанно.",
+      "emotion_ru": "неясно",
+      "style_ru": "мультяшный",
+      "ocr_text": "Что мы тут делаем?",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "вопросительная надпись",
+        "удивленный персонаж",
+        "шляпа и вопрос"
+      ]
+    },
+    {
+      "item_id": "nyu_501888b6a94baafaff41e556",
+      "image_sha256": "1aa8a08e492d0ca30faf9039577815ee9ff942a935f221db9c209ca9e58ff359",
+      "caption_en": "A surprised anime character with blonde hair and red eyes, wearing a traditional outfit.",
+      "caption_ru": "Аниме-персонаж с удивленным выражением лица, блондинка с красными глазами в традиционной одежде.",
+      "emotion_ru": "удивление",
+      "style_ru": "аниме",
+      "ocr_text": "@Y2LAB",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "удивленный аниме персонаж",
+        "традиционная одежда",
+        "блондинка с красными глазами"
+      ]
+    },
+    {
+      "item_id": "nyu_d40a5b21368d9812bd1e20a9",
+      "image_sha256": "4374eeefd3c9f3c9499085d0e81638b3a1a465e8057bea2097513aac8d6d8337",
+      "caption_en": "A cute anime character with purple hair and traditional attire, holding a golden coin.",
+      "caption_ru": "Картинка милого аниме-персонажа с фиолетовыми волосами и традиционной одеждой, держащего золотую монету.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "88888888",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж с монетой",
+        "фиолетовые волосы в аниме",
+        "традиционная одежда в аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_8642ac799d5466f09379c9dc",
+      "image_sha256": "9650d6dd9df23b1d09b725c746ac5d36b54932954c1c5ec83bd2f848b7f4c074",
+      "caption_en": "A character with purple skin and spiky hair wearing a red and blue outfit with yellow accents.",
+      "caption_ru": "Персонаж с фиолетовой кожей и шипастыми волосами в красно-синем костюме с желтыми акцентами.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимационный стиль",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "персонаж с фиолетовой кожей",
+        "шипастые волосы",
+        "красно-синий костюм"
+      ]
+    },
+    {
+      "item_id": "nyu_008d7819e460b6625a1471bd",
+      "image_sha256": "dade31e51a07bbf6edfd906cd137e862f1eabf36e70c7e96240260570af589b5",
+      "caption_en": "A cartoon girl in a black hoodie is falling backward with a surprised expression.",
+      "caption_ru": "Картинка девочки в черной худи, которая падает назад с удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "падающая девушка",
+        "удивленная девочка",
+        "анимационный персонаж"
+      ]
+    },
+    {
+      "item_id": "nyu_f99d95fe7ba8a8f556987665",
+      "image_sha256": "dc748c1eb879053453fbf63e9cba4e5826ee2e7649d4651090bb04535eea2de5",
+      "caption_en": "Close-up of a character with red hair and a serious expression.",
+      "caption_ru": "Близкий план персонажа с красными волосами и серьезным выражением лица.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "愛",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "красные волосы",
+        "серьезный взгляд",
+        "анимационный персонаж"
+      ]
+    },
+    {
+      "item_id": "sq_6086783452382757374",
+      "image_sha256": "fc0d9dcd85cd37e27fd11171e011dd59fe92cb01937934644e46b4f8921496bb",
+      "caption_en": "A cartoon bear with a wide, toothy grin and a surprised expression.",
+      "caption_ru": "Карикатурный медведь с широкой улыбкой и удивленным выражением лица.",
+      "emotion_ru": "удивление",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "медведь с улыбкой",
+        "удивленный медведь",
+        "картинка медведя"
+      ]
+    },
+    {
+      "item_id": "sq_1833563040931381751",
+      "image_sha256": "b02f9ac4874fd6cb99d0c4ab5784f491dafb41af30e4bdad6147e63da54af43e",
+      "caption_en": "A cute cartoon cat with big eyes and tears, smiling.",
+      "caption_ru": "Милая мультяшная кошка с большими глазами и слезами, улыбающаяся.",
+      "emotion_ru": "счастливая",
+      "style_ru": "мультяшный",
+      "ocr_text": "",
+      "ocr_language": "none",
+      "usage_queries_ru": [
+        "милый котик",
+        "счастливый кот",
+        "улыбка кота"
+      ]
+    },
+    {
+      "item_id": "nyu_96044ccf061177deb79dbc1d",
+      "image_sha256": "21bf3aa4fb6dbf78547fe4588ff15e1a5db521bf097136b48341fc455c82d155",
+      "caption_en": "A character with long white hair and red spots on their face, wearing a white robe with a blue gem.",
+      "caption_ru": "Персонаж с длинными белыми волосами и красными пятнами на лице, одетый в белую тунику с синим камнем.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "@zkyuji",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимационный персонаж",
+        "красные пятна",
+        "длинные волосы"
+      ]
+    },
+    {
+      "item_id": "nyu_7705122072032bdea67a481d",
+      "image_sha256": "d039b6bc5b5dc00f942d3b0d4967265cd900a9df8c45fad674059a3fb724cf75",
+      "caption_en": "A cartoon girl with red hair and a bow tie is covering her face with her hands, appearing distressed.",
+      "caption_ru": "Картинка девочки с красными волосами и бантом, которая закрывает лицо руками, выглядит расстроенной.",
+      "emotion_ru": "расстроенная",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "девочка закрывает лицо руками",
+        "расстроенная девушка",
+        "анимационная девушка"
+      ]
+    },
+    {
+      "item_id": "nyu_036ad7ac975acf382389c18f",
+      "image_sha256": "2bc93e5723f3d7275fad7d6bb5007d97aa98d533433a2f3de990c53e1f8d81e5",
+      "caption_en": "A cartoon cat wearing an Egyptian headdress and necklace, with the text 'Египетская сила' below.",
+      "caption_ru": "Карикатурный кот в египетском головном уборе и ожерелье, под текстом 'Египетская сила'.",
+      "emotion_ru": "неясно",
+      "style_ru": "анимация",
+      "ocr_text": "Египетская сила",
+      "ocr_language": "ru",
+      "usage_queries_ru": [
+        "египетский кот",
+        "картинка с египтом",
+        "анимационный кот"
+      ]
+    },
+    {
+      "item_id": "nyu_64c0f1d858fd2164dc747dda",
+      "image_sha256": "2bbdfbda3c3c1b3a961d5a83548fc41799737bd536b34565f8994a0ff989c324",
+      "caption_en": "A person wearing glasses and a striped shirt with suspenders, looking slightly to the side.",
+      "caption_ru": "Люди в очках и полосатой рубашке с подтяжками, смотрящие в сторону.",
+      "emotion_ru": "неясно",
+      "style_ru": "снимок из жизни",
+      "ocr_text": "한성?",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "человек в очках",
+        "полосатая рубашка",
+        "подтяжки"
+      ]
+    },
+    {
+      "item_id": "nyu_112fb593a4daeff26f3960af",
+      "image_sha256": "ff062a374064ead76861bf9f5e5451567e423b1eefe4df35bbc9ea82cae634d8",
+      "caption_en": "A character with long pink hair and green eyes stands against a dark background.",
+      "caption_ru": "Персонаж с длинными розовыми волосами и зелеными глазами стоит перед темной стеной.",
+      "emotion_ru": "неясно",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "анимешный персонаж",
+        "розовые волосы",
+        "зеленые глаза"
+      ]
+    },
+    {
+      "item_id": "nyu_b7461c9454056b975c3b7e9e",
+      "image_sha256": "27b50dfb915666eb609efa88d831b24c23dc286debe0a8e4677a053556577b04",
+      "caption_en": "A cartoon frog wearing a helmet, holding an AK-47 and smoking a cigarette.",
+      "caption_ru": "Карикатурная жаба в шлеме, держит АК-47 и курит сигарету.",
+      "emotion_ru": "неясно",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "жаба с оружием",
+        "шлем жаба",
+        "карикатура жабы"
+      ]
+    },
+    {
+      "item_id": "nyu_75944862a9f32dead2002a65",
+      "image_sha256": "fc5c69ceed523d184884325ba82ee18c551143b99ecbfe4fdb5e3c30279642a5",
+      "caption_en": "A sad anime character with brown hair and a blue uniform background.",
+      "caption_ru": "Смущенный аниме-персонаж с короткими волосами и синим фоном.",
+      "emotion_ru": "смущение",
+      "style_ru": "аниме",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "смущенный аниме персонаж",
+        "синий фон аниме",
+        "короткие волосы аниме"
+      ]
+    },
+    {
+      "item_id": "nyu_e2639b79b388f3030c2ad796",
+      "image_sha256": "761af8dbd14f8b3691f5a06291f56577a66468d183c32511b914436c43414bf7",
+      "caption_en": "A cartoon pug giving two thumbs up.",
+      "caption_ru": "Карикатура пуделя с двумя большими пальцами вверх.",
+      "emotion_ru": "радостное",
+      "style_ru": "карикатура",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "пудель с пальцами вверх",
+        "счастливая собака",
+        "два пальца вверх"
+      ]
+    },
+    {
+      "item_id": "nyu_2bd7beef97c3506c42498921",
+      "image_sha256": "64d143d39295f5c23665884a8ee2940941bf9c682226b0ee5acabe5d85087d8d",
+      "caption_en": "A cat stands on hind legs, holding a colorful box.",
+      "caption_ru": "Кот стоит на задних лапах и держит яркую коробку.",
+      "emotion_ru": "неясно",
+      "style_ru": "реалистичный",
+      "ocr_text": "",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "кот держит коробку",
+        "кошка на задних лапах",
+        "яркая коробка"
+      ]
+    },
+    {
+      "item_id": "nyu_5c9de50a0fa6518fa127ef8e",
+      "image_sha256": "a817844d9f755bf829b525b4c5b2cc9de9ec50b4cbbd4d1fc8de6c7f4d82dff8",
+      "caption_en": "A distressed character with wide eyes and open mouth surrounded by 'XAA' symbols.",
+      "caption_ru": "Страшный персонаж с широко раскрытыми глазами и открытой пастью, окруженный символами 'XAA'.",
+      "emotion_ru": "страх",
+      "style_ru": "анонимный манга-стиль",
+      "ocr_text": "XAA",
+      "ocr_language": "other",
+      "usage_queries_ru": [
+        "страшный персонаж",
+        "XAA символы",
+        "манга-стиль"
+      ]
+    }
+  ]
+]

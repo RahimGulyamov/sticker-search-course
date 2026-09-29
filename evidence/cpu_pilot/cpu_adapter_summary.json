@@ -1,0 +1,5 @@
+{
+  "initial_dev_ndcg5": 0.11471563442380076,
+  "best_dev_ndcg5": 0.11471563442380076,
+  "note": "Test split was not consulted. If best epoch is 0, trained updates did not improve dev."
+}

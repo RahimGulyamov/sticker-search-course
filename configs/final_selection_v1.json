@@ -1,0 +1,15 @@
+{
+  "selection_id": "final_v1",
+  "primary_method": "learned",
+  "primary_user_language": "ru",
+  "checkpoint": "runs/full_v2/adapter/best.pt",
+  "expected_epoch": 4,
+  "comparison_methods": ["image", "rrf", "learned"],
+  "selection_basis": "Best observed dev NDCG@5 for Russian queries; trained checkpoint selected earlier on combined EN/RU dev. RRF retained as a baseline. Calibration and native CLIP did not establish an improvement.",
+  "limitations": [
+    "Absolute known-positive retrieval quality is low.",
+    "Russian queries are machine translations with identified semantic errors; 47 formatting failures were replaced by assistant translations.",
+    "Dev bootstrap differences include zero; no claim of statistically established superiority.",
+    "Test results must not be used to retune this selection."
+  ]
+}

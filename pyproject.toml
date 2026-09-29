@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sticker-search-course"
+version = "0.1.0"
+description = "Russian sticker and greeting-card search with reproducible offline evaluation"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy==2.2.6", "Pillow==11.3.0", "scikit-learn==1.7.2",
+  "matplotlib==3.10.7", "torch>=2.7.1,<2.10", "transformers==4.57.1",
+  "sentence-transformers==5.1.2", "accelerate==1.10.1", "safetensors==0.6.2",
+  "huggingface-hub==0.35.3", "sentencepiece==0.2.1",
+]
+
+[project.optional-dependencies]
+demo = ["streamlit==1.50.0"]
+generation = ["diffusers==0.35.1", "rembg[cpu]==2.0.67"]
+yt = ["ytsaurus-client==0.13.37"]
+test = ["pytest==8.4.2"]
+report = ["reportlab==4.4.9"]
+
+[tool.setuptools.packages.find]
+include = ["sticker_search*"]

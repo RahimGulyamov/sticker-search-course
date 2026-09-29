@@ -1,0 +1,20 @@
+{
+  "source": "user-provided console log",
+  "observed_at": "2026-09-28T12:59:04+03:00",
+  "captions": {
+    "expected": 30914,
+    "accepted": 30875,
+    "image_only_fallback": 39,
+    "cpu_recovered": 7,
+    "gpu_retry_recovered": 5
+  },
+  "translations": {
+    "expected": 4171,
+    "accepted": 4122,
+    "missing": 49,
+    "first_pass_max_new_tokens": 96
+  },
+  "blocked_at": "translation_merge",
+  "training_started": false,
+  "translation_error_causes": "not included in this log"
+}

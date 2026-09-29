@@ -1,0 +1,14 @@
+{
+  "total_parameters": 1136008498,
+  "trainable_parameters": 1136008498,
+  "train_unique_images": 21776,
+  "training_pairs": 49318,
+  "global_batch": 128,
+  "steps_per_epoch": 386,
+  "distributed_sampler_padding": 2,
+  "loss": "weighted multi-positive sigmoid",
+  "negative_scope": "current global batch, differentiable image all_gather",
+  "optimizer": "AdamW",
+  "precision": "FP32 master weights; BF16 autocast",
+  "texts_truncated": 0
+}

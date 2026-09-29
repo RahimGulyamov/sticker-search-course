@@ -1,0 +1,57 @@
+{
+  "images": 30914,
+  "sources": {
+    "Synthetic-OpenMoji": 240,
+    "Synth-GCD": 100,
+    "nyuuzyou/stickers": 30000,
+    "StickerQueries": 574
+  },
+  "kinds": {
+    "postcard": 340,
+    "sticker": 30574
+  },
+  "splits": {
+    "train": 21805,
+    "test": 4640,
+    "dev": 4469
+  },
+  "transparent_images": 23905,
+  "unique_pixel_hashes": 30914,
+  "width_quantiles": [
+    66.0,
+    512.0,
+    512.0,
+    784.0
+  ],
+  "height_quantiles": [
+    66.0,
+    512.0,
+    512.0,
+    1168.0
+  ],
+  "num_groups": 30508,
+  "largest_group": 10,
+  "source_split_counts": {
+    "Synthetic-OpenMoji": {
+      "train": 160,
+      "test": 50,
+      "dev": 30
+    },
+    "Synth-GCD": {
+      "train": 69,
+      "dev": 12,
+      "test": 19
+    },
+    "nyuuzyou/stickers": {
+      "dev": 4341,
+      "train": 21173,
+      "test": 4486
+    },
+    "StickerQueries": {
+      "train": 403,
+      "dev": 86,
+      "test": 85
+    }
+  },
+  "limitation": "No semantic quality/translation/OCR accuracy measured in this catalog-only audit."
+}

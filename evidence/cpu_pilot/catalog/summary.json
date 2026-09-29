@@ -1,0 +1,44 @@
+{
+  "images": 472,
+  "sources": {
+    "StickerQueries": 232,
+    "Synthetic-OpenMoji": 240
+  },
+  "kinds": {
+    "sticker": 232,
+    "postcard": 240
+  },
+  "splits": {
+    "train": 388,
+    "dev": 55,
+    "test": 29
+  },
+  "transparent_images": 146,
+  "unique_pixel_hashes": 472,
+  "width_quantiles": [
+    345.0,
+    512.0,
+    640.0,
+    640.0
+  ],
+  "height_quantiles": [
+    131.0,
+    512.0,
+    640.0,
+    640.0
+  ],
+  "num_groups": 236,
+  "largest_group": 190,
+  "source_split_counts": {
+    "StickerQueries": {
+      "train": 168,
+      "dev": 35,
+      "test": 29
+    },
+    "Synthetic-OpenMoji": {
+      "train": 220,
+      "dev": 20
+    }
+  },
+  "limitation": "No semantic quality/translation/OCR accuracy measured in this catalog-only audit."
+}

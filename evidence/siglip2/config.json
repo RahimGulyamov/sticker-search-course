@@ -1,0 +1,38 @@
+{
+  "config": {
+    "model_id": "google/siglip2-so400m-patch14-384",
+    "revision": "e8e487298228002f3d8a82e0cd5c8ea9c567f57f",
+    "seed": 42,
+    "epochs": 3,
+    "batch_size_per_gpu": 32,
+    "eval_batch_size": 32,
+    "num_workers": 2,
+    "learning_rate": 5e-06,
+    "weight_decay": 0.01,
+    "warmup_fraction": 0.05,
+    "max_grad_norm": 1.0,
+    "gradient_checkpointing": true,
+    "precision": "bf16",
+    "max_text_length": 64,
+    "save_every_steps": 500,
+    "log_every_steps": 25,
+    "selection_metric": "macro_en_ru_image_ndcg5",
+    "min_train_coverage": 0.98,
+    "caption_weight": 0.5,
+    "source_query_weight": 1.0,
+    "translated_query_weight": 0.7
+  },
+  "world_size": 4,
+  "model_sha256": "92f826016d9d08d698b1bd497d0dcea96b6ae1dd31aa4c8eacd643809c082a69",
+  "input_hashes": {
+    "pairs.jsonl": "9b73cfe8bca995f4adf05ff54a56916fce67e8b5d3857352b14d3e9f20872091",
+    "items.jsonl": "6a7c399fdf94e0b3ea193d4f0f68a9a6454a321ff482101a19cd4f2bfca80fb3",
+    "queries.jsonl": "027e0e11b88121285aa7e8a199236e26f174d7a4836fc46a375fcdec5d852399",
+    "provenance.json": "980803a29d99ba7bfd1a68c29a409992c9bc389f54f88ab6577a48d1c1239fc0"
+  },
+  "code_hash": "7d714fe10e82e14386c0b53d52136a925b0d01f6c19882c4bb2f4035f379a227",
+  "torch_version": "2.9.1+cu128",
+  "transformers_version": "4.57.1",
+  "smoke": false,
+  "device_type": "cuda"
+}

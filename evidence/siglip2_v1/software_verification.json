@@ -1,0 +1,52 @@
+{
+  "software_test_only": true,
+  "processes": 1,
+  "steps": 12,
+  "full_resume_matches": true,
+  "both_towers_updated": true,
+  "baseline_and_selected_index_reload": true,
+  "trained_hf_export_reload": true,
+  "dataloader_workers": 0,
+  "offline": true,
+  "torch": "2.9.1+cpu",
+  "fixture": "Tiny randomly initialized SiglipModel; NOT pretrained SigLIP 2",
+  "unit_tests": {
+    "passed": 8,
+    "skipped": 1,
+    "skipped_reason": "Real Gloo sockets prohibited in this execution environment"
+  },
+  "full_pretrained_training_run": false,
+  "gpu_peak_memory_measured": false,
+  "ddp_transport_verified": false,
+  "cli_search_verified": true,
+  "result_bundle_verified": true,
+  "python_310_syntax_checked": true,
+  "bash_syntax_checked": true,
+  "source_sha256": {
+    "sticker_search/siglip/__init__.py": "ad7423190423af9f868f062c694daa4eaebcbd086b7e8bfad8609ba8dd87307f",
+    "sticker_search/siglip/data.py": "4d6c79fa0b0483fe3c6e40895e2dec63499e7735c1770fc761a9236e6adc7453",
+    "sticker_search/siglip/evaluate.py": "5c7344e9fa0cd34645ca889e4915d46f3db9328ef568007fcb35ac83db14c2f0",
+    "sticker_search/siglip/io.py": "4ce901a59e6f85879709a2c0faf1164ed0ef7cd20097925cff690903c733c3d3",
+    "sticker_search/siglip/model.py": "35dea00d62c7291ca4ff9bb8c88e5451893a99799133ec2b66afec7cbd300903",
+    "sticker_search/siglip/search.py": "9fc82e949980acbf7e9b69208ebcbc4f91b2ad4c55e6dd7eaace3d2ac0c5d1c1",
+    "sticker_search/siglip/train.py": "55c1f0fd33475c90b23114f239c01481f0c2649f8404813c625c6830f2af8914"
+  },
+  "pretrained_processor_check": {
+    "processor_type": "SiglipProcessor",
+    "tokenizer_type": "GemmaTokenizer",
+    "tokenizer_vocab_size": 256000,
+    "input_shapes": {
+      "pixel_values": [
+        2,
+        3,
+        384,
+        384
+      ],
+      "input_ids": [
+        2,
+        64
+      ]
+    },
+    "real_pretrained_processor_verified_offline": true
+  }
+}

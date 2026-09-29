@@ -1,0 +1,8 @@
+{
+  "epoch": 2,
+  "metric": 0.08692991944624825,
+  "model_path": "/tmp/cv_project/siglip2_v1/checkpoints/epoch_002/model",
+  "index_path": "/tmp/cv_project/siglip2_v1/checkpoints/epoch_002/index",
+  "selection_split": "dev",
+  "selection_metric": "macro_en_ru_image_ndcg5"
+}

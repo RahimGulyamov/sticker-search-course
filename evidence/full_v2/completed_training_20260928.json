@@ -1,0 +1,110 @@
+{
+  "source": "User-provided successful pod log, 2026-09-28 13:51 Europe/Moscow",
+  "translations_complete": 4171,
+  "total_queries": 8342,
+  "training_query_counts": {
+    "en": 2883,
+    "ru": 2883
+  },
+  "catalog_size": 30914,
+  "dev_metrics_rounded_from_console": {
+    "en": {
+      "image": {
+        "NDCG@5": 0.0197,
+        "Hit@10": 0.0411,
+        "MRR@10": 0.0208
+      },
+      "hybrid": {
+        "NDCG@5": 0.0033,
+        "Hit@10": 0.0115,
+        "MRR@10": 0.0043
+      },
+      "lexical": {
+        "NDCG@5": 0.0127,
+        "Hit@10": 0.0148,
+        "MRR@10": 0.0119
+      },
+      "learned": {
+        "NDCG@5": 0.0134,
+        "Hit@10": 0.0263,
+        "MRR@10": 0.013
+      }
+    },
+    "ru": {
+      "image": {
+        "NDCG@5": 0.0031,
+        "Hit@10": 0.0066,
+        "MRR@10": 0.002
+      },
+      "hybrid": {
+        "NDCG@5": 0.0007,
+        "Hit@10": 0.0033,
+        "MRR@10": 0.0006
+      },
+      "lexical": {
+        "NDCG@5": 0.0,
+        "Hit@10": 0.0,
+        "MRR@10": 0.0
+      },
+      "learned": {
+        "NDCG@5": 0.0112,
+        "Hit@10": 0.0181,
+        "MRR@10": 0.0113
+      }
+    }
+  },
+  "history_epochs_1_to_10": [
+    {
+      "epoch": 1,
+      "loss": 4.509142590605694,
+      "dev_ndcg5": 0.001341225126292317
+    },
+    {
+      "epoch": 2,
+      "loss": 4.165479556373928,
+      "dev_ndcg5": 0.009072349480571262
+    },
+    {
+      "epoch": 3,
+      "loss": 3.757057179575381,
+      "dev_ndcg5": 0.008879461043383975
+    },
+    {
+      "epoch": 4,
+      "loss": 3.5721775448840596,
+      "dev_ndcg5": 0.012301418214970094
+    },
+    {
+      "epoch": 5,
+      "loss": 3.403624441312707,
+      "dev_ndcg5": 0.00972664045709883
+    },
+    {
+      "epoch": 6,
+      "loss": 3.2374569734801417,
+      "dev_ndcg5": 0.010810135000937592
+    },
+    {
+      "epoch": 7,
+      "loss": 3.1085712469142415,
+      "dev_ndcg5": 0.009654561919534932
+    },
+    {
+      "epoch": 8,
+      "loss": 2.9900245562843653,
+      "dev_ndcg5": 0.010170467840862327
+    },
+    {
+      "epoch": 9,
+      "loss": 2.867781420116839,
+      "dev_ndcg5": 0.010536316229661731
+    },
+    {
+      "epoch": 10,
+      "loss": 2.7663101683492246,
+      "dev_ndcg5": 0.008711828355279198
+    }
+  ],
+  "best_reported_trained_epoch": 4,
+  "diagnostic_run_pending": true
+}

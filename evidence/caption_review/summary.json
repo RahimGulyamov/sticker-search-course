@@ -1,0 +1,41 @@
+{
+  "same_image_sample_and_order": true,
+  "question_prefix_regex": "^(как|что|кто|где|почему|како[йея]|какие)\\b",
+  "v1": {
+    "images": 100,
+    "queries": 299,
+    "question_mark_queries": 107,
+    "question_prefix_queries": 154,
+    "items_with_question_prefix": 60,
+    "queries_without_cyrillic": 0,
+    "nonempty_ocr_items": 35,
+    "source_prefixes": {
+      "nyu": 95,
+      "sq": 5
+    }
+  },
+  "v2": {
+    "images": 100,
+    "queries": 300,
+    "question_mark_queries": 0,
+    "question_prefix_queries": 0,
+    "items_with_question_prefix": 0,
+    "queries_without_cyrillic": 3,
+    "nonempty_ocr_items": 35,
+    "source_prefixes": {
+      "nyu": 95,
+      "sq": 5
+    }
+  },
+  "files": [
+    {
+      "name": "review_500.html",
+      "sha256": "fe833526aa4a6636aa9d22f5bd0a55a43ea5390dd7056417e2ece4799725dd4e"
+    },
+    {
+      "name": "review_500_v2.html",
+      "sha256": "03352f7165b319f8c3411062f665ab14c698910aeab8fd92879b835ff8c9c0f4"
+    }
+  ],
+  "caveat": "Mechanical counts on 100 displayed examples, not 500 annotations or measured retrieval quality; no human OCR ground truth."
+}

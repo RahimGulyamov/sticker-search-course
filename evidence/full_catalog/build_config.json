@@ -1,0 +1,10 @@
+{
+  "output": "data/catalog",
+  "nyu_count": 30000,
+  "nyu_archive": "../downloads/nyuuzyou-valid.zip",
+  "sq_limit": 578,
+  "synth_cards": true,
+  "pilot": "../sticker_project",
+  "workers": 6,
+  "seed": 42
+}

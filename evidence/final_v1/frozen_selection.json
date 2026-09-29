@@ -1,0 +1,41 @@
+{
+  "selection": {
+    "selection_id": "final_v1",
+    "primary_method": "learned",
+    "primary_user_language": "ru",
+    "checkpoint": "runs/full_v2/adapter/best.pt",
+    "expected_epoch": 4,
+    "comparison_methods": [
+      "image",
+      "rrf",
+      "learned"
+    ],
+    "selection_basis": "Best observed dev NDCG@5 for Russian queries; trained checkpoint selected earlier on combined EN/RU dev. RRF retained as a baseline. Calibration and native CLIP did not establish an improvement.",
+    "limitations": [
+      "Absolute known-positive retrieval quality is low.",
+      "Russian queries are machine translations with identified semantic errors; 47 formatting failures were replaced by assistant translations.",
+      "Dev bootstrap differences include zero; no claim of statistically established superiority.",
+      "Test results must not be used to retune this selection."
+    ]
+  },
+  "file_hashes": {
+    "runs/full_v2/adapter/best.pt": "d5efab6c3b15b8085a47764ab66dea06289bad1b97cf1aec896c556179a99eca",
+    "runs/full_v2/index/vectors.npz": "f915d29f3154393559a319b6154e71459e6d970b8cae1d41b09b3487a0b14496",
+    "runs/full_v2/index/items.jsonl": "0c067b17c4f0cf3e6fa407275122575bd66530b0968471355a5cd2ea62cbddaa",
+    "/home/jovyan/sticker_search/configs/final_selection_v1.json": "80e044117c5908d18d6e6ddad02780ada7c2ce173d4781df5345bdfb551f01ee",
+    "runs/full_v2/queries_en/queries.jsonl": "fb6f6457c42e0f7ec4af82208ec0bf74a1cd71549836627632e1569e62d0a3ae",
+    "runs/full_v2/queries_en/queries.npy": "d26c38203925766ba572f0ac7911c34d0384828a5b11a33b8628ca51f1116124",
+    "runs/full_v2/queries_ru/queries.jsonl": "abc8affa5beb2cd264d87decc5ad9b0526c25e6204b588eaf6afe50967a95e33",
+    "runs/full_v2/queries_ru/queries.npy": "d7d06ad821bac03ec11b89191d67f5f90726f3ec91760ac0ba4c51ef7e035d4b"
+  },
+  "evaluation_code_hashes": {
+    "evaluate.py": "454b257dff7085b5ce7ae0a853e427c2fbc517b40f36da33538b3464adf03554",
+    "retrieval.py": "83912bf4eac045d421ddbedfa4f17699311a71121c9f921ee3d5cfde5ff62db4",
+    "model.py": "4f018a68cc5b2f7940c4f991cf05385aa09692d95bd2db7b6ca5d5bbdbfd936e",
+    "metrics.py": "772efdc5bc993424d06a3db3f55389da4b7bfd6d5192f6d099df9147debfbaec",
+    "fusion.py": "e3a069140dbc7558125574bf6bc58e9d4211da3ec19bf149226909d0ccfb8a16"
+  },
+  "index_sha256": "f915d29f3154393559a319b6154e71459e6d970b8cae1d41b09b3487a0b14496",
+  "selected_epoch": 4,
+  "note": "Created before test evaluation. Existing test outputs are reused only with identical frozen artifacts/code."
+}

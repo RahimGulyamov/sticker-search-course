@@ -1,0 +1,17 @@
+{
+  "observed_before_repair": {
+    "total": 4171,
+    "valid": 4124,
+    "missing": 47
+  },
+  "corrections_prepared": 47,
+  "splits": {
+    "dev": 7,
+    "train": 33,
+    "test": 7
+  },
+  "ambiguous": 16,
+  "human_reviewed": false,
+  "pod_execution_verified": false,
+  "source_verification": "All 47 full source rows match evidence/full_catalog/labels/queries_en.jsonl; Markdown underscore escaping normalized for comparison only. Generated response text not parsed or treated as ground truth."
+}

@@ -1,0 +1,20 @@
+{
+  "archive_tests_passed": 3,
+  "retrieval_models_loaded_with_network_blocked": [
+    "sentence-transformers/clip-ViT-B-32",
+    "sentence-transformers/clip-ViT-B-32-multilingual-v1"
+  ],
+  "embedding_shapes": [
+    [
+      1,
+      512
+    ],
+    [
+      1,
+      512
+    ]
+  ],
+  "transfer_modules_import_torch": false,
+  "gpu_models_tested": false,
+  "real_yt_transfer_tested": false
+}

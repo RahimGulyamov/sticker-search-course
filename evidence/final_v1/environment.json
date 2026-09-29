@@ -1,0 +1,22 @@
+{
+  "python": "3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]",
+  "packages": {
+    "torch": "2.9.1+cu128",
+    "transformers": "4.57.1",
+    "sentence-transformers": "5.1.2",
+    "numpy": "2.2.6",
+    "Pillow": "11.3.0",
+    "scikit-learn": "1.7.2",
+    "diffusers": "0.35.1",
+    "rembg": "2.0.67",
+    "onnxruntime": "1.23.2",
+    "streamlit": "1.50.0"
+  },
+  "cuda": "12.8",
+  "gpus": [
+    "NVIDIA A100 80GB PCIe",
+    "NVIDIA A100 80GB PCIe",
+    "NVIDIA A100 80GB PCIe",
+    "NVIDIA A100 80GB PCIe"
+  ]
+}

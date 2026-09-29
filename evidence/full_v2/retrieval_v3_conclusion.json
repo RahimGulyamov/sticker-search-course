@@ -1,0 +1,16 @@
+{
+  "source": "results.zip received 2026-09-28 14:23 Europe/Moscow",
+  "calibration_helped": false,
+  "native_en_ndcg5": 0.020863189037721303,
+  "multilingual_en_image_ndcg5": 0.01966183482295925,
+  "native_minus_image_paired_ci95": [
+    -0.007179833602664605,
+    0.00874336516152994
+  ],
+  "native_multilingual_paired_embedding_cosine": 0.9646645784378052,
+  "choice": "learned checkpoint epoch 4 for Russian-first demo; image and rrf baselines retained",
+  "selection_frozen_in": "configs/final_selection_v1.json",
+  "test_status": "not yet evaluated",
+  "generation_status": "not yet verified",
+  "note": "Absolute quality remains low; no statistically established superiority claimed."
+}

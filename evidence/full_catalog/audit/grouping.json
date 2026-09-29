@@ -1,0 +1,54 @@
+{
+  "rule_version": 3,
+  "seed": 42,
+  "near_edges": 221,
+  "groups": 30508,
+  "largest": [
+    [
+      "card_birthday_1F381_bold_0",
+      10
+    ],
+    [
+      "card_birthday_1F382_bold_0",
+      10
+    ],
+    [
+      "card_congrats_1F389_bold_0",
+      10
+    ],
+    [
+      "card_congrats_1F3C6_bold_0",
+      10
+    ],
+    [
+      "card_getwell_1F375_bold_0",
+      10
+    ],
+    [
+      "card_getwell_1F48A_bold_0",
+      10
+    ],
+    [
+      "card_hello_1F44B_bold_0",
+      10
+    ],
+    [
+      "card_hello_1F60A_bold_0",
+      10
+    ],
+    [
+      "card_love_1F970_bold_0",
+      10
+    ],
+    [
+      "card_love_2764_bold_0",
+      10
+    ]
+  ],
+  "splits": {
+    "train": 21805,
+    "test": 4640,
+    "dev": 4469
+  },
+  "note": "Known different artwork families kept separate. dHash candidates verified using foreground-cropped 64px thumbnails: mask IoU>=0.85 and RGB MAE<=0.03. Rebuild dependent indices."
+}
